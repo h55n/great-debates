@@ -1,7 +1,7 @@
 [
   {
     "rank": 1,
-    "title": "Lincoln v Douglas",
+    "title": "Lincoln vs. Douglas",
     "year": "1858",
     "category": "The campaign trail",
     "score": 97,
@@ -26,7 +26,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Lincoln v Douglas",
+    "shortTitle": "Lincoln vs. Douglas",
     "context": "Lincoln and Douglas met seven times across Illinois while competing for a US Senate seat. Their audiences heard arguments about slavery, territorial government and the constitutional future of the Union. The debates were reported in newspapers and later published together.",
     "deepDive": [
       "The Freeport encounter exposed a tension in Douglas's popular-sovereignty position: how could a territory exclude slavery after the Supreme Court's Dred Scott decision? Douglas answered that local legislation was still necessary to sustain slavery. That answer mattered to different parts of his political coalition in different ways.",
@@ -35,7 +35,7 @@
   },
   {
     "rank": 2,
-    "title": "Baldwin v Buckley",
+    "title": "Baldwin vs. Buckley",
     "year": "1965",
     "category": "The public stage",
     "score": 94,
@@ -60,7 +60,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Baldwin v Buckley",
+    "shortTitle": "Baldwin vs. Buckley",
     "context": "The Cambridge Union motion asked whether the American dream came at the expense of Black Americans. Baldwin argued from history and lived experience, connecting wealth and citizenship to racial exclusion. Buckley challenged his diagnosis and defended the political and social order Baldwin criticized.",
     "deepDive": [
       "The audience vote favored Baldwin. The vote is evidence of the response in that room, not a universal verdict. The encounter remains valuable because each speaker's account of freedom and belonging can be examined in full rather than through an isolated line."
@@ -68,7 +68,7 @@
   },
   {
     "rank": 3,
-    "title": "Darrow v Bryan, Scopes trial",
+    "title": "Darrow vs. Bryan, Scopes trial",
     "year": "1925",
     "category": "The courtroom",
     "score": 94,
@@ -93,7 +93,7 @@
     ],
     "form": "Courtroom argument",
     "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
-    "shortTitle": "Darrow v Bryan, Scopes trial",
+    "shortTitle": "Darrow vs. Bryan, Scopes trial",
     "context": "John Scopes was prosecuted under Tennessee's restriction on teaching human evolution in public schools. Darrow's questioning of Bryan did not function as a normal debate: it took place within a trial and addressed the interpretation of biblical texts.",
     "deepDive": [
       "Scopes was convicted and fined; the conviction was later overturned on a technical ground. The public spectacle and the legal outcome are different parts of the story. Accounts that say Darrow simply won often erase that distinction."
@@ -101,7 +101,7 @@
   },
   {
     "rank": 4,
-    "title": "Kennedy v Nixon",
+    "title": "Kennedy vs. Nixon",
     "year": "1960",
     "category": "The campaign trail",
     "score": 92,
@@ -126,11 +126,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Kennedy v Nixon"
+    "shortTitle": "Kennedy vs. Nixon"
   },
   {
     "rank": 5,
-    "title": "Reagan v Carter",
+    "title": "Reagan vs. Carter",
     "year": "1980",
     "category": "The campaign trail",
     "score": 90,
@@ -155,12 +155,12 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Reagan v Carter"
+    "shortTitle": "Reagan vs. Carter"
   },
   {
     "rank": 6,
-    "title": "Socrates v Callicles",
-    "year": "c. 380 BC",
+    "title": "Socrates vs. Callicles",
+    "year": "c. 380s BCE · literary dialogue",
     "category": "The ancient world",
     "score": 89,
     "summary": "Plato's Gorgias stages a dialogue about rhetoric, justice and the good life.",
@@ -178,17 +178,17 @@
     "era": "antiquity",
     "sources": [
       {
-        "label": "Plato, Gorgias - Perseus Digital Library (tlg0059.tlg023)",
-        "url": "https://www.perseus.tufts.edu/"
+        "label": "Plato, Gorgias - Internet Classics Archive",
+        "url": "https://classics.mit.edu/Plato/gorgias.html"
       }
     ],
     "form": "Literary dialogue",
     "recordNote": "The surviving work is a literary and philosophical account, not a verbatim recording of a historical conversation. Its composition and dramatic setting are distinct.",
-    "shortTitle": "Socrates v Callicles"
+    "shortTitle": "Socrates vs. Callicles"
   },
   {
     "rank": 7,
-    "title": "Webster v Hayne",
+    "title": "Webster vs. Hayne",
     "year": "1830",
     "category": "Parliament & Congress",
     "score": 87,
@@ -213,7 +213,7 @@
     ],
     "form": "Parliamentary argument",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Webster v Hayne"
+    "shortTitle": "Webster vs. Hayne"
   },
   {
     "rank": 8,
@@ -275,7 +275,7 @@
   },
   {
     "rank": 10,
-    "title": "Russell v Copleston",
+    "title": "Russell vs. Copleston",
     "year": "1948",
     "category": "Faith & philosophy",
     "score": 86,
@@ -300,7 +300,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Russell v Copleston",
+    "shortTitle": "Russell vs. Copleston",
     "context": "Copleston argued that contingent beings require an explanation and that the explanation must reach beyond the series of contingent things. Russell questioned the inference from explanations of particular things to an explanation of the universe as a whole.",
     "deepDive": [
       "The disagreement is partly about what counts as an explanation. Copleston asks why anything exists; Russell challenges the assumption that the whole universe must have the same kind of cause or reason as a particular event. The debate also turns to morality and religious experience."
@@ -308,7 +308,7 @@
   },
   {
     "rank": 11,
-    "title": "Cicero v Catiline",
+    "title": "Cicero vs. Catiline",
     "year": "63 BC",
     "category": "The ancient world",
     "score": 86,
@@ -333,11 +333,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Cicero v Catiline"
+    "shortTitle": "Cicero vs. Catiline"
   },
   {
     "rank": 12,
-    "title": "Stevenson v Zorin",
+    "title": "Stevenson vs. Zorin",
     "year": "1962",
     "category": "The public stage",
     "score": 86,
@@ -362,11 +362,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Stevenson v Zorin"
+    "shortTitle": "Stevenson vs. Zorin"
   },
   {
     "rank": 13,
-    "title": "Demosthenes v Aeschines",
+    "title": "Demosthenes vs. Aeschines",
     "year": "330 BC",
     "category": "The ancient world",
     "score": 85,
@@ -391,11 +391,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Demosthenes v Aeschines"
+    "shortTitle": "Demosthenes vs. Aeschines"
   },
   {
     "rank": 14,
-    "title": "Fry & Hitchens v the Church",
+    "title": "Fry & Hitchens vs. the Church",
     "year": "2009",
     "category": "Faith & philosophy",
     "score": 85,
@@ -420,18 +420,18 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Fry & Hitchens v the Church"
+    "shortTitle": "Fry & Hitchens vs. the Church"
   },
   {
     "rank": 15,
-    "title": "Brown v Board",
+    "title": "Brown vs. Board",
     "year": "1952-53",
     "category": "The courtroom",
     "score": 84,
     "summary": "The Supreme Court heard arguments in the school-segregation cases that became Brown v. Board of Education.",
     "left": {
-      "name": "Thurgood Marshall & the plaintiffs",
-      "position": "Argued that racial segregation in public schools violated equal protection."
+      "name": "NAACP Legal Defense Fund team",
+      "position": "Robert L. Carter argued the Kansas case; Thurgood Marshall and colleagues argued companion cases against segregation."
     },
     "right": {
       "name": "Defenders of segregated schools",
@@ -449,11 +449,11 @@
     ],
     "form": "Courtroom argument",
     "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
-    "shortTitle": "Brown v Board"
+    "shortTitle": "Brown vs. Board"
   },
   {
     "rank": 16,
-    "title": "Ford v Carter",
+    "title": "Ford vs. Carter",
     "year": "1976",
     "category": "The campaign trail",
     "score": 83,
@@ -478,7 +478,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Ford v Carter"
+    "shortTitle": "Ford vs. Carter"
   },
   {
     "rank": 17,
@@ -511,7 +511,7 @@
   },
   {
     "rank": 18,
-    "title": "Gore v Bush",
+    "title": "Gore vs. Bush",
     "year": "2000",
     "category": "The campaign trail",
     "score": 83,
@@ -536,11 +536,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Gore v Bush"
+    "shortTitle": "Gore vs. Bush"
   },
   {
     "rank": 19,
-    "title": "Luther v Eck, Leipzig",
+    "title": "Luther vs. Eck, Leipzig",
     "year": "1519",
     "category": "Faith & philosophy",
     "score": 82,
@@ -565,11 +565,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Luther v Eck, Leipzig"
+    "shortTitle": "Luther vs. Eck, Leipzig"
   },
   {
     "rank": 20,
-    "title": "Jackson v Goering",
+    "title": "Jackson vs. Goering",
     "year": "1946",
     "category": "The courtroom",
     "score": 82,
@@ -594,11 +594,11 @@
     ],
     "form": "Courtroom argument",
     "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
-    "shortTitle": "Jackson v Goering"
+    "shortTitle": "Jackson vs. Goering"
   },
   {
     "rank": 21,
-    "title": "Huxley v Wilberforce",
+    "title": "Huxley vs. Wilberforce",
     "year": "1860",
     "category": "Science & reason",
     "score": 81,
@@ -623,11 +623,11 @@
     ],
     "form": "Public debate",
     "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
-    "shortTitle": "Huxley v Wilberforce"
+    "shortTitle": "Huxley vs. Wilberforce"
   },
   {
     "rank": 22,
-    "title": "Reagan v Mondale",
+    "title": "Reagan vs. Mondale",
     "year": "1984",
     "category": "The campaign trail",
     "score": 81,
@@ -652,7 +652,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Reagan v Mondale"
+    "shortTitle": "Reagan vs. Mondale"
   },
   {
     "rank": 23,
@@ -685,7 +685,7 @@
   },
   {
     "rank": 24,
-    "title": "Bohr v Einstein",
+    "title": "Bohr vs. Einstein",
     "year": "1927 & 1930",
     "category": "Science & reason",
     "score": 80,
@@ -710,11 +710,11 @@
     ],
     "form": "Public debate",
     "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
-    "shortTitle": "Bohr v Einstein"
+    "shortTitle": "Bohr vs. Einstein"
   },
   {
     "rank": 25,
-    "title": "Trump v Clinton",
+    "title": "Trump vs. Clinton",
     "year": "2016",
     "category": "The campaign trail",
     "score": 80,
@@ -739,7 +739,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Trump v Clinton"
+    "shortTitle": "Trump vs. Clinton"
   },
   {
     "rank": 26,
@@ -830,7 +830,7 @@
   },
   {
     "rank": 29,
-    "title": "Bentsen v Quayle",
+    "title": "Bentsen vs. Quayle",
     "year": "1988",
     "category": "The campaign trail",
     "score": 79,
@@ -855,11 +855,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Bentsen v Quayle"
+    "shortTitle": "Bentsen vs. Quayle"
   },
   {
     "rank": 30,
-    "title": "Obama v Romney, Hofstra",
+    "title": "Obama vs. Romney, Hofstra",
     "year": "2012",
     "category": "The campaign trail",
     "score": 79,
@@ -884,11 +884,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Obama v Romney, Hofstra"
+    "shortTitle": "Obama vs. Romney, Hofstra"
   },
   {
     "rank": 31,
-    "title": "Welch v McCarthy",
+    "title": "Welch vs. McCarthy",
     "year": "1954",
     "category": "Parliament & Congress",
     "score": 79,
@@ -911,9 +911,9 @@
         "url": "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/have-you-no-sense-of-decency.htm"
       }
     ],
-    "form": "Parliamentary argument",
+    "form": "Congressional hearing",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Welch v McCarthy"
+    "shortTitle": "Welch vs. McCarthy"
   },
   {
     "rank": 32,
@@ -940,13 +940,13 @@
         "url": "https://www.senate.gov/artandhistory/history/common/generic/Speeches_Lodge1919.htm"
       }
     ],
-    "form": "Parliamentary argument",
+    "form": "Treaty ratification controversy",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
     "shortTitle": "League fight"
   },
   {
     "rank": 33,
-    "title": "Harris v Trump",
+    "title": "Harris vs. Trump",
     "year": "2024",
     "category": "The campaign trail",
     "score": 79,
@@ -971,7 +971,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Harris v Trump"
+    "shortTitle": "Harris vs. Trump"
   },
   {
     "rank": 34,
@@ -994,8 +994,8 @@
     "era": "modern",
     "sources": [
       {
-        "label": "Hansard - Conduct of the War, 7-8 May 1940",
-        "url": "https://hansard.parliament.uk/Commons/1940-05-07"
+        "label": "Hansard",
+        "url": "https://hansard.parliament.uk/commons/1940-05-07/debates/ee7fb681-43ae-4a17-a06f-cdf0a62e1ce2/ConductOfTheWar"
       }
     ],
     "form": "Parliamentary argument",
@@ -1004,7 +1004,7 @@
   },
   {
     "rank": 35,
-    "title": "Gore v Perot, NAFTA",
+    "title": "Gore vs. Perot, NAFTA",
     "year": "1993",
     "category": "The public stage",
     "score": 78,
@@ -1029,7 +1029,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Gore v Perot, NAFTA"
+    "shortTitle": "Gore vs. Perot, NAFTA"
   },
   {
     "rank": 36,
@@ -1052,8 +1052,8 @@
     "era": "antiquity",
     "sources": [
       {
-        "label": "Cicero, Philippics - Perseus (phi0474.phi035)",
-        "url": "https://www.perseus.tufts.edu/"
+        "label": "Cicero, First Philippic - The Latin Library",
+        "url": "https://thelatinlibrary.com/cicero/phil1.shtml"
       }
     ],
     "form": "Speech in a wider controversy",
@@ -1091,7 +1091,7 @@
   },
   {
     "rank": 38,
-    "title": "Biden v Trump",
+    "title": "Biden vs. Trump",
     "year": "June 2024",
     "category": "The campaign trail",
     "score": 78,
@@ -1116,11 +1116,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Biden v Trump"
+    "shortTitle": "Biden vs. Trump"
   },
   {
     "rank": 39,
-    "title": "Chomsky v Foucault",
+    "title": "Chomsky vs. Foucault",
     "year": "1971",
     "category": "Faith & philosophy",
     "score": 77,
@@ -1145,7 +1145,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Chomsky v Foucault"
+    "shortTitle": "Chomsky vs. Foucault"
   },
   {
     "rank": 40,
@@ -1197,8 +1197,8 @@
     "era": "modern",
     "sources": [
       {
-        "label": "Wikisource - the plea, in full",
-        "url": "https://en.wikisource.org/wiki/The_plea_of_Clarence_Darrow,_August_22nd,_23rd_%26_25th,_MCMXXIII"
+        "label": "Darrow closing argument - Famous Trials",
+        "url": "https://famous-trials.com/leopoldandloeb/1685-closingargument"
       }
     ],
     "form": "Courtroom argument",
@@ -1294,7 +1294,7 @@
   },
   {
     "rank": 45,
-    "title": "Roe v Wade",
+    "title": "Roe vs. Wade",
     "year": "1971-72 arguments · 1973 ruling",
     "category": "The courtroom",
     "score": 76,
@@ -1313,17 +1313,17 @@
     "era": "broadcast",
     "sources": [
       {
-        "label": "Oral arguments - Oyez",
-        "url": "https://www.oyez.org/cases/1970/70-18"
+        "label": "Roe v. Wade - Oyez case record and arguments",
+        "url": "https://www.oyez.org/cases/1971/70-18"
       }
     ],
     "form": "Courtroom argument",
     "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
-    "shortTitle": "Roe v Wade"
+    "shortTitle": "Roe vs. Wade"
   },
   {
     "rank": 46,
-    "title": "Chomsky v Buckley",
+    "title": "Chomsky vs. Buckley",
     "year": "1969",
     "category": "The public stage",
     "score": 75,
@@ -1348,11 +1348,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Chomsky v Buckley"
+    "shortTitle": "Chomsky vs. Buckley"
   },
   {
     "rank": 47,
-    "title": "Mulroney v Turner",
+    "title": "Mulroney vs. Turner",
     "year": "1984",
     "category": "The campaign trail",
     "score": 75,
@@ -1377,7 +1377,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Mulroney v Turner"
+    "shortTitle": "Mulroney vs. Turner"
   },
   {
     "rank": 48,
@@ -1410,7 +1410,7 @@
   },
   {
     "rank": 49,
-    "title": "Dewey v Stassen",
+    "title": "Dewey vs. Stassen",
     "year": "1948",
     "category": "The campaign trail",
     "score": 73,
@@ -1435,12 +1435,12 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Dewey v Stassen"
+    "shortTitle": "Dewey vs. Stassen"
   },
   {
     "rank": 50,
     "title": "The Milindapanha",
-    "year": "Literary text · c. 1st century BCE onward",
+    "year": "Composition c. 100 BCE onward",
     "category": "Faith & philosophy",
     "score": 73,
     "summary": "The Milindapanha presents a dialogue between King Milinda and the Buddhist monk Nagasena.",
@@ -1497,7 +1497,7 @@
   },
   {
     "rank": 52,
-    "title": "Bush v Dukakis II",
+    "title": "Bush vs. Dukakis II",
     "year": "1988",
     "category": "The campaign trail",
     "score": 73,
@@ -1522,11 +1522,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Bush v Dukakis II"
+    "shortTitle": "Bush vs. Dukakis II"
   },
   {
     "rank": 53,
-    "title": "Macron v Le Pen",
+    "title": "Macron vs. Le Pen",
     "year": "2017",
     "category": "The campaign trail",
     "score": 72,
@@ -1551,7 +1551,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Macron v Le Pen"
+    "shortTitle": "Macron vs. Le Pen"
   },
   {
     "rank": 54,
@@ -1574,8 +1574,8 @@
     "era": "medieval",
     "sources": [
       {
-        "label": "The Marburg Articles - German History in Documents",
-        "url": "https://germanhistorydocs.org/"
+        "label": "Marburg Articles (1529) - German History in Documents and Images",
+        "url": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/the-marburg-colloquy-the-marburg-articles-1529.pdf"
       }
     ],
     "form": "Public debate",
@@ -1584,7 +1584,7 @@
   },
   {
     "rank": 55,
-    "title": "Shapley v Curtis",
+    "title": "Shapley vs. Curtis",
     "year": "1920",
     "category": "Science & reason",
     "score": 71,
@@ -1609,7 +1609,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Shapley v Curtis"
+    "shortTitle": "Shapley vs. Curtis"
   },
   {
     "rank": 56,
@@ -1671,7 +1671,7 @@
   },
   {
     "rank": 58,
-    "title": "Webster v Calhoun",
+    "title": "Webster vs. Calhoun",
     "year": "1833",
     "category": "Parliament & Congress",
     "score": 71,
@@ -1696,11 +1696,11 @@
     ],
     "form": "Parliamentary argument",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Webster v Calhoun"
+    "shortTitle": "Webster vs. Calhoun"
   },
   {
     "rank": 59,
-    "title": "Giscard v Mitterrand",
+    "title": "Giscard vs. Mitterrand",
     "year": "1974",
     "category": "The campaign trail",
     "score": 71,
@@ -1725,11 +1725,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Giscard v Mitterrand"
+    "shortTitle": "Giscard vs. Mitterrand"
   },
   {
     "rank": 60,
-    "title": "Vidal v Buckley",
+    "title": "Vidal vs. Buckley",
     "year": "1968",
     "category": "The public stage",
     "score": 70,
@@ -1754,7 +1754,7 @@
     ],
     "form": "Televised confrontation",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Vidal v Buckley"
+    "shortTitle": "Vidal vs. Buckley"
   },
   {
     "rank": 61,
@@ -1793,12 +1793,12 @@
     "score": 69,
     "summary": "The 1908 proceedings against suffragette leaders became a published movement document.",
     "left": {
-      "name": "Emmeline Pankhurst & WSPU leaders",
+      "name": "Emmeline & Christabel Pankhurst, Flora Drummond",
       "position": "Defended their protest campaign and challenged restrictions on political action."
     },
     "right": {
       "name": "The Bow Street court",
-      "position": "Heard charges arising from efforts to mobilize crowds at Parliament."
+      "position": "Heard proceedings arising from efforts to mobilize crowds at Parliament."
     },
     "significance": "The case belongs to the history of militant suffrage and protest. The original pamphlet exists, but open access to its full text is limited.",
     "slug": "the-pankhurst-trial",
@@ -1806,8 +1806,8 @@
     "era": "modern",
     "sources": [
       {
-        "label": "Routledge - The Trial of the Suffragette Leaders (record)",
-        "url": "https://www.routledgehistoricalresources.com/feminism"
+        "label": "The Trial of the Suffragette Leaders (1908) - Routledge chapter record",
+        "url": "https://www.routledgehistoricalresources.com/feminism/books/suffrage-and-the-pankhursts/chapters/the-trial-of-the-suffragette-leaders-1908"
       }
     ],
     "form": "Courtroom argument",
@@ -1835,8 +1835,8 @@
     "era": "antiquity",
     "sources": [
       {
-        "label": "Cicero, the Verrines - Perseus",
-        "url": "https://www.perseus.tufts.edu/"
+        "label": "Cicero, In Verrem - The Latin Library",
+        "url": "https://www.thelatinlibrary.com/cicero/ver.shtml"
       }
     ],
     "form": "Public debate",
@@ -1845,7 +1845,7 @@
   },
   {
     "rank": 64,
-    "title": "Ferraro v Bush",
+    "title": "Ferraro vs. Bush",
     "year": "1984",
     "category": "The campaign trail",
     "score": 69,
@@ -1870,11 +1870,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Ferraro v Bush"
+    "shortTitle": "Ferraro vs. Bush"
   },
   {
     "rank": 65,
-    "title": "Trump v Biden I",
+    "title": "Trump vs. Biden I",
     "year": "2020",
     "category": "The campaign trail",
     "score": 69,
@@ -1899,11 +1899,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Trump v Biden I"
+    "shortTitle": "Trump vs. Biden I"
   },
   {
     "rank": 66,
-    "title": "Malcolm X v Rustin",
+    "title": "Malcolm X vs. Rustin",
     "year": "1960",
     "category": "The public stage",
     "score": 68,
@@ -1928,11 +1928,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Malcolm X v Rustin"
+    "shortTitle": "Malcolm X vs. Rustin"
   },
   {
     "rank": 67,
-    "title": "Hitchens v Galloway",
+    "title": "Hitchens vs. Galloway",
     "year": "2005",
     "category": "The public stage",
     "score": 68,
@@ -1957,7 +1957,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Hitchens v Galloway"
+    "shortTitle": "Hitchens vs. Galloway"
   },
   {
     "rank": 68,
@@ -1990,7 +1990,7 @@
   },
   {
     "rank": 69,
-    "title": "Nye v Ham",
+    "title": "Nye vs. Ham",
     "year": "2014",
     "category": "Science & reason",
     "score": 68,
@@ -2015,11 +2015,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Nye v Ham"
+    "shortTitle": "Nye vs. Ham"
   },
   {
     "rank": 70,
-    "title": "Cuvier v Geoffroy",
+    "title": "Cuvier vs. Geoffroy",
     "year": "1830",
     "category": "Science & reason",
     "score": 68,
@@ -2044,12 +2044,12 @@
     ],
     "form": "Scientific controversy",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Cuvier v Geoffroy"
+    "shortTitle": "Cuvier vs. Geoffroy"
   },
   {
     "rank": 71,
-    "title": "Huxley v Owen",
-    "year": "1861",
+    "title": "Huxley vs. Owen",
+    "year": "c. 1857-63",
     "category": "Science & reason",
     "score": 68,
     "summary": "The hippocampus minor controversy unfolded through scientific meetings and printed arguments in the early 1860s.",
@@ -2063,7 +2063,7 @@
     },
     "significance": "The dispute linked detailed anatomical evidence to larger questions about humans' relationship to other animals.",
     "slug": "huxley-v-owen",
-    "date": 1861,
+    "date": 1857,
     "era": "modern",
     "sources": [
       {
@@ -2073,11 +2073,11 @@
     ],
     "form": "Scientific controversy",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Huxley v Owen"
+    "shortTitle": "Huxley vs. Owen"
   },
   {
     "rank": 72,
-    "title": "Obama v Romney, Denver",
+    "title": "Obama vs. Romney, Denver",
     "year": "2012",
     "category": "The campaign trail",
     "score": 68,
@@ -2102,11 +2102,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Obama v Romney, Denver"
+    "shortTitle": "Obama vs. Romney, Denver"
   },
   {
     "rank": 73,
-    "title": "Hitchens v Craig",
+    "title": "Hitchens vs. Craig",
     "year": "2009",
     "category": "Faith & philosophy",
     "score": 67,
@@ -2125,17 +2125,17 @@
     "era": "contemporary",
     "sources": [
       {
-        "label": "Biola University - the debate record",
-        "url": "https://www.biola.edu/blogs/biola-news/2009/"
+        "label": "Biola University - record of the April 2009 debate",
+        "url": "https://www.biola.edu/blogs/biola-news/2009/does-god-exist-debate-successful-and-encourages-di"
       }
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Hitchens v Craig"
+    "shortTitle": "Hitchens vs. Craig"
   },
   {
     "rank": 74,
-    "title": "Sanger v Russell",
+    "title": "Sanger vs. Russell",
     "year": "1920",
     "category": "The public stage",
     "score": 67,
@@ -2145,7 +2145,7 @@
       "position": "Defended spreading birth-control knowledge as beneficial to individuals and society."
     },
     "right": {
-      "name": "Winter Russell",
+      "name": "John Winter Russell",
       "position": "Argued that spreading the knowledge was injurious to humanity's welfare."
     },
     "significance": "The published text records a major argument over reproductive knowledge, reform and social authority.",
@@ -2160,11 +2160,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Sanger v Russell"
+    "shortTitle": "Sanger vs. Russell"
   },
   {
     "rank": 75,
-    "title": "Salmond v Darling",
+    "title": "Salmond vs. Darling",
     "year": "2014",
     "category": "The campaign trail",
     "score": 67,
@@ -2189,7 +2189,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Salmond v Darling"
+    "shortTitle": "Salmond vs. Darling"
   },
   {
     "rank": 76,
@@ -2338,7 +2338,7 @@
   },
   {
     "rank": 81,
-    "title": "Collor v Lula",
+    "title": "Collor vs. Lula",
     "year": "1989",
     "category": "The campaign trail",
     "score": 64,
@@ -2351,23 +2351,23 @@
       "name": "Luiz Inacio Lula da Silva",
       "position": "Defended his program and challenged Collor's political claims."
     },
-    "significance": "The final debate and its later television editing became part of a lasting controversy over media influence in elections.",
+    "significance": "The final debate became a prominent part of the election's media history. Later accounts disagree over the effects of its editing and broadcast.",
     "slug": "collor-v-lula",
     "date": 1989,
     "era": "broadcast",
     "sources": [
       {
-        "label": "Memoria Globo - Debate Collor x Lula",
-        "url": "https://memoriaglobo.globo.com/"
+        "label": "Memoria Globo - retrospective on the debate and its broadcast editing",
+        "url": "https://memoriaglobo.globo.com/erros/debate-collor-x-lula/noticia/debate-collor-x-lula.ghtml"
       }
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Collor v Lula"
+    "shortTitle": "Collor vs. Lula"
   },
   {
     "rank": 82,
-    "title": "Palin v Biden",
+    "title": "Palin vs. Biden",
     "year": "2008",
     "category": "The campaign trail",
     "score": 64,
@@ -2392,11 +2392,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Palin v Biden"
+    "shortTitle": "Palin vs. Biden"
   },
   {
     "rank": 83,
-    "title": "Dole v Mondale",
+    "title": "Dole vs. Mondale",
     "year": "1976",
     "category": "The campaign trail",
     "score": 64,
@@ -2421,11 +2421,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Dole v Mondale"
+    "shortTitle": "Dole vs. Mondale"
   },
   {
     "rank": 84,
-    "title": "Mondale v Hart",
+    "title": "Mondale vs. Hart",
     "year": "1984",
     "category": "The campaign trail",
     "score": 64,
@@ -2450,7 +2450,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Mondale v Hart"
+    "shortTitle": "Mondale vs. Hart"
   },
   {
     "rank": 85,
@@ -2460,7 +2460,7 @@
     "score": 63,
     "summary": "The 1971 New York panel filmed as Town Bloody Hall featured Mailer and leading feminist voices.",
     "left": {
-      "name": "Feminist panelists",
+      "name": "Greer, Johnston, Trilling & Ceballos",
       "position": "Challenged Mailer's account of feminism and the position of women."
     },
     "right": {
@@ -2477,14 +2477,14 @@
         "url": "https://www.criterion.com/films/30213-town-bloody-hall"
       }
     ],
-    "form": "Public debate",
+    "form": "Filmed panel discussion",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
     "shortTitle": "Town Bloody Hall"
   },
   {
     "rank": 86,
-    "title": "Newton v Leibniz",
-    "year": "c. 1710s",
+    "title": "Newton vs. Leibniz",
+    "year": "c. 1708-16",
     "category": "Science & reason",
     "score": 63,
     "summary": "A calculus priority dispute unfolded through correspondence, publications and a Royal Society investigation.",
@@ -2502,13 +2502,13 @@
     "era": "enlightenment",
     "sources": [
       {
-        "label": "Oxford Newton Project - the Commercium Epistolicum record",
-        "url": "https://www.newtonproject.ox.ac.uk/"
+        "label": "An account of the Commercium Epistolicum - Oxford Newton Project",
+        "url": "https://www.newtonproject.ox.ac.uk/view/texts/diplomatic/NATP00352"
       }
     ],
     "form": "Scientific controversy",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Newton v Leibniz"
+    "shortTitle": "Newton vs. Leibniz"
   },
   {
     "rank": 87,
@@ -2516,7 +2516,7 @@
     "year": "1951",
     "category": "Parliament & Congress",
     "score": 63,
-    "summary": "Debates over the Hindu Code Bill contributed to Ambedkar's resignation from the cabinet in 1951.",
+    "summary": "Debates in India's Provisional Parliament over the Hindu Code Bill contributed to Ambedkar's resignation from the cabinet in 1951.",
     "left": {
       "name": "B. R. Ambedkar & reform supporters",
       "position": "Sought changes to Hindu personal law concerning marriage, inheritance and women's rights."
@@ -2548,7 +2548,7 @@
     "summary": "The 1980 Nashua Republican primary debate produced a confrontation over who could participate and speak.",
     "left": {
       "name": "Ronald Reagan",
-      "position": "Protested attempts to restrict the participation and microphones at the debate he had funded."
+      "position": "Protested attempts to restrict participation and speaking time at the Nashua debate."
     },
     "right": {
       "name": "The moderator & disputed format",
@@ -2570,7 +2570,7 @@
   },
   {
     "rank": 89,
-    "title": "Ayer v Copleston",
+    "title": "Ayer vs. Copleston",
     "year": "1949",
     "category": "Faith & philosophy",
     "score": 62,
@@ -2599,11 +2599,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Ayer v Copleston"
+    "shortTitle": "Ayer vs. Copleston"
   },
   {
     "rank": 90,
-    "title": "Harris v Craig",
+    "title": "Harris vs. Craig",
     "year": "2011",
     "category": "Faith & philosophy",
     "score": 62,
@@ -2628,11 +2628,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Harris v Craig"
+    "shortTitle": "Harris vs. Craig"
   },
   {
     "rank": 91,
-    "title": "Zizek v Peterson",
+    "title": "Zizek vs. Peterson",
     "year": "2019",
     "category": "The public stage",
     "score": 62,
@@ -2657,7 +2657,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Zizek v Peterson"
+    "shortTitle": "Zizek vs. Peterson"
   },
   {
     "rank": 92,
@@ -2690,7 +2690,7 @@
   },
   {
     "rank": 93,
-    "title": "Obama v Clinton, NH",
+    "title": "Obama vs. Clinton, NH",
     "year": "2008",
     "category": "The campaign trail",
     "score": 62,
@@ -2715,11 +2715,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Obama v Clinton, NH"
+    "shortTitle": "Obama vs. Clinton, NH"
   },
   {
     "rank": 94,
-    "title": "Vance v Walz",
+    "title": "Vance vs. Walz",
     "year": "2024",
     "category": "The campaign trail",
     "score": 62,
@@ -2744,7 +2744,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Vance v Walz"
+    "shortTitle": "Vance vs. Walz"
   },
   {
     "rank": 95,
@@ -2752,7 +2752,7 @@
     "year": "2010",
     "category": "Faith & philosophy",
     "score": 62,
-    "summary": "An Intelligence Squared debate in 2010 examined Islam and peace.",
+    "summary": "An Intelligence Squared U.S. debate in New York in 2010 examined the motion that Islam is a religion of peace.",
     "left": {
       "name": "Maajid Nawaz & Zeba Khan",
       "position": "Supported the motion that Islam is a religion of peace."
@@ -2767,8 +2767,8 @@
     "era": "contemporary",
     "sources": [
       {
-        "label": "Full transcript (docslib)",
-        "url": "https://docslib.org/doc/4309253/transcript-islam-is-a-religion-of-peace"
+        "label": "NPR / Intelligence Squared U.S. - debate record",
+        "url": "https://www.npr.org/2010/10/13/130516428/is-islam-a-religion-of-peace"
       }
     ],
     "form": "Public debate",
@@ -2777,7 +2777,7 @@
   },
   {
     "rank": 96,
-    "title": "Obama v McCain III",
+    "title": "Obama vs. McCain III",
     "year": "2008",
     "category": "The campaign trail",
     "score": 62,
@@ -2802,11 +2802,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Obama v McCain III"
+    "shortTitle": "Obama vs. McCain III"
   },
   {
     "rank": 97,
-    "title": "Johnson v Corbyn",
+    "title": "Johnson vs. Corbyn",
     "year": "2019",
     "category": "The campaign trail",
     "score": 61,
@@ -2825,17 +2825,17 @@
     "era": "contemporary",
     "sources": [
       {
-        "label": "ITV News - the debate",
-        "url": "https://www.itv.com/news/2019-11-19"
+        "label": "ITV News - account of the November 2019 debate",
+        "url": "https://www.itv.com/news/2019-11-20/boris-johnson-and-jeremy-corbyn-in-virtual-tie-after-heated-debate"
       }
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Johnson v Corbyn"
+    "shortTitle": "Johnson vs. Corbyn"
   },
   {
     "rank": 98,
-    "title": "Stevenson v Kefauver",
+    "title": "Stevenson vs. Kefauver",
     "year": "1956",
     "category": "The campaign trail",
     "score": 61,
@@ -2860,7 +2860,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Stevenson v Kefauver"
+    "shortTitle": "Stevenson vs. Kefauver"
   },
   {
     "rank": 99,
@@ -2883,8 +2883,8 @@
     "era": "broadcast",
     "sources": [
       {
-        "label": "INE official documentary archive",
-        "url": "https://repositoriodocumental.ine.mx/"
+        "label": "INE - Debate Presidencial I 1994",
+        "url": "https://repositoriodocumental.ine.mx/xmlui/handle/123456789/172434"
       }
     ],
     "form": "Public debate",
@@ -2922,7 +2922,7 @@
   },
   {
     "rank": 101,
-    "title": "Schroder v Stoiber",
+    "title": "Schroder vs. Stoiber",
     "year": "2002",
     "category": "The campaign trail",
     "score": 60,
@@ -2947,11 +2947,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Schroder v Stoiber"
+    "shortTitle": "Schroder vs. Stoiber"
   },
   {
     "rank": 102,
-    "title": "Bannon v Frum",
+    "title": "Bannon vs. Frum",
     "year": "2018",
     "category": "The public stage",
     "score": 60,
@@ -2976,11 +2976,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Bannon v Frum"
+    "shortTitle": "Bannon vs. Frum"
   },
   {
     "rank": 103,
-    "title": "Harris v Pence",
+    "title": "Harris vs. Pence",
     "year": "2020",
     "category": "The campaign trail",
     "score": 60,
@@ -3005,12 +3005,12 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Harris v Pence"
+    "shortTitle": "Harris vs. Pence"
   },
   {
     "rank": 104,
-    "title": "Willkie v Jackson",
-    "year": "1938",
+    "title": "Willkie vs. Jackson",
+    "year": "January 1938",
     "category": "The public stage",
     "score": 60,
     "summary": "Willkie and Jackson took part in a 1938 America's Town Meeting radio debate.",
@@ -3034,7 +3034,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Willkie v Jackson"
+    "shortTitle": "Willkie vs. Jackson"
   },
   {
     "rank": 105,
@@ -3067,7 +3067,7 @@
   },
   {
     "rank": 106,
-    "title": "Hitchens v Sharpton",
+    "title": "Hitchens vs. Sharpton",
     "year": "2007",
     "category": "Faith & philosophy",
     "score": 59,
@@ -3092,11 +3092,11 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Hitchens v Sharpton"
+    "shortTitle": "Hitchens vs. Sharpton"
   },
   {
     "rank": 107,
-    "title": "Clinton v Sanders, Brooklyn",
+    "title": "Clinton vs. Sanders, Brooklyn",
     "year": "2016",
     "category": "The campaign trail",
     "score": 58,
@@ -3121,7 +3121,7 @@
     ],
     "form": "Public debate",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Clinton v Sanders, Brooklyn"
+    "shortTitle": "Clinton vs. Sanders, Brooklyn"
   },
   {
     "rank": 108,
@@ -3148,7 +3148,7 @@
         "url": "https://www.cnbc.com/2011/11/09/gov-rick-perrys-memory-stumblefatal.html"
       }
     ],
-    "form": "Public debate",
+    "form": "Primary-debate moment",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
     "shortTitle": "Perry, 'oops'"
   },
@@ -3177,13 +3177,13 @@
         "url": "https://journals.sagepub.com/doi/10.1177/025764300902400203"
       }
     ],
-    "form": "Public debate",
+    "form": "Court-hosted religious discussions",
     "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
     "shortTitle": "Ibadat Khana"
   },
   {
     "rank": 110,
-    "title": "Vidal v Mailer",
+    "title": "Vidal vs. Mailer",
     "year": "1971",
     "category": "The public stage",
     "score": 54,
@@ -3202,17 +3202,17 @@
     "era": "broadcast",
     "sources": [
       {
-        "label": "Slate - the retrospective",
-        "url": "https://slate.com/culture/2012/08/"
+        "label": "Slate - the Cavett broadcast and clip",
+        "url": "https://slate.com/culture/2012/08/watch-gore-vidals-famous-altercation-with-norman-mailer-on-the-dick-cavett-show.html"
       }
     ],
     "form": "Televised confrontation",
-    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
-    "shortTitle": "Vidal v Mailer"
+    "recordNote": "This was a televised literary confrontation, not a structured debate. Later retellings sometimes attach incidents from other dates to this appearance.",
+    "shortTitle": "Vidal vs. Mailer"
   },
   {
     "rank": 111,
-    "title": "Chesterton v Darrow",
+    "title": "Chesterton vs. Darrow",
     "year": "1931",
     "category": "Faith & philosophy",
     "score": 54,
@@ -3237,12 +3237,12 @@
     ],
     "form": "Public debate",
     "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
-    "shortTitle": "Chesterton v Darrow"
+    "shortTitle": "Chesterton vs. Darrow"
   },
   {
     "rank": 112,
     "title": "The Third Buddhist Council",
-    "year": "c. 250 BC",
+    "year": "c. 250 BCE · later chronicles",
     "category": "Faith & philosophy",
     "score": 53,
     "summary": "Theravada chronicles describe a Third Buddhist Council under Ashoka in the third century BCE.",
@@ -3265,7 +3265,7 @@
       }
     ],
     "form": "Later chronicle account",
-    "recordNote": "The council is described in later Theravada chronicles. These are evidence for a tradition of historical memory, not a contemporary transcript; chronology and details remain debated.",
+    "recordNote": "Later Theravada chronicles describe this council under Ashoka. This is a traditional account, not an established contemporary debate record; chronology and details remain debated.",
     "shortTitle": "Third Buddhist Council"
   },
   {
@@ -3289,8 +3289,8 @@
     "era": "broadcast",
     "sources": [
       {
-        "label": "Cambridge Moral Sciences Club history + 'Wittgenstein's Poker'",
-        "url": "https://www.phil.cam.ac.uk/"
+        "label": "Smithsonian Magazine - accounts of the Cambridge encounter",
+        "url": "https://www.smithsonianmag.com/history/wittgensteins-ghost-61723401/"
       }
     ],
     "form": "Public debate",

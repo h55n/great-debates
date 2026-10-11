@@ -24,7 +24,7 @@ Deploy the contents of `dist/` to a static host. `vercel.json` declares the buil
 
 `public/debates.json` holds all 113 entries, their chronology, sides and positions, neutral summary, significance, historical-record qualification and sources. Entry numbers are editorial order, not objective rankings. The home features four expanded entries. Every entry has a dedicated page. Historical dialogues, coercive disputations, trials and uncertain accounts are labeled as such. No fabricated quotation or placeholder is included.
 
-The current source set was recovered from an earlier study and corrected where possible. A fresh independent per-entry QA pass is in progress. Some inherited citations lead to institutional index pages or inaccessible records rather than a complete transcript. Do not advertise the archive as a complete transcript repository.
+The current source set was recovered from an earlier study and corrected where possible. An independent per-entry QA fact sheet has been applied, correcting known errors and removing disputed causal claims, numbers and quotations. Some inherited citations lead to institutional index pages or inaccessible records rather than a complete transcript. Do not advertise the archive as a complete transcript repository.
 
 ## Interaction
 
