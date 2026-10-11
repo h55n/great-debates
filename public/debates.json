@@ -1,0 +1,3300 @@
+[
+  {
+    "rank": 1,
+    "title": "Lincoln v Douglas",
+    "year": "1858",
+    "category": "The campaign trail",
+    "score": 97,
+    "summary": "Seven Illinois debates placed slavery's expansion at the center of the 1858 Senate campaign.",
+    "left": {
+      "name": "Abraham Lincoln",
+      "position": "Opposed the expansion of slavery, while accepting constitutional limits on interference where it already existed."
+    },
+    "right": {
+      "name": "Stephen A. Douglas",
+      "position": "Defended popular sovereignty: territorial settlers should decide whether to allow slavery."
+    },
+    "significance": "The debates helped bring Lincoln to national attention and exposed divisions over slavery within American party politics.",
+    "slug": "lincoln-v-douglas",
+    "date": 1858,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Smithsonian Magazine - how Lincoln bested Douglas",
+        "url": "https://www.smithsonianmag.com/history/how-lincoln-bested-douglas-in-their-famous-debates-7558180/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Lincoln v Douglas",
+    "context": "Lincoln and Douglas met seven times across Illinois while competing for a US Senate seat. Their audiences heard arguments about slavery, territorial government and the constitutional future of the Union. The debates were reported in newspapers and later published together.",
+    "deepDive": [
+      "The Freeport encounter exposed a tension in Douglas's popular-sovereignty position: how could a territory exclude slavery after the Supreme Court's Dred Scott decision? Douglas answered that local legislation was still necessary to sustain slavery. That answer mattered to different parts of his political coalition in different ways.",
+      "Douglas retained the Senate seat through the state legislature. Lincoln gained national visibility. Neither result makes the moral content of their positions interchangeable: Lincoln opposed slavery's expansion, while both men made statements about racial equality that require historical scrutiny."
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Baldwin v Buckley",
+    "year": "1965",
+    "category": "The public stage",
+    "score": 94,
+    "summary": "At the Cambridge Union, Baldwin and Buckley debated whether the American dream came at the expense of Black Americans.",
+    "left": {
+      "name": "James Baldwin",
+      "position": "Argued that Black labor and exclusion underpinned the American dream enjoyed by others."
+    },
+    "right": {
+      "name": "William F. Buckley Jr.",
+      "position": "Challenged Baldwin's account and defended American institutions against his indictment."
+    },
+    "significance": "The encounter is a lasting record of competing accounts of race, citizenship and opportunity during the civil-rights era.",
+    "slug": "baldwin-v-buckley",
+    "date": 1965,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "LSE US Centre - how Baldwin won it",
+        "url": "https://blogs.lse.ac.uk/usappblog/2020/01/30/the-baldwin-buckley-debate-of-1965-and-how-baldwin-won-it/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Baldwin v Buckley",
+    "context": "The Cambridge Union motion asked whether the American dream came at the expense of Black Americans. Baldwin argued from history and lived experience, connecting wealth and citizenship to racial exclusion. Buckley challenged his diagnosis and defended the political and social order Baldwin criticized.",
+    "deepDive": [
+      "The audience vote favored Baldwin. The vote is evidence of the response in that room, not a universal verdict. The encounter remains valuable because each speaker's account of freedom and belonging can be examined in full rather than through an isolated line."
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Darrow v Bryan, Scopes trial",
+    "year": "1925",
+    "category": "The courtroom",
+    "score": 94,
+    "summary": "During the Scopes trial, defense lawyer Darrow questioned Bryan as an expert on the Bible.",
+    "left": {
+      "name": "Clarence Darrow",
+      "position": "Questioned a literal reading of the Bible and challenged the prosecution's religious assumptions."
+    },
+    "right": {
+      "name": "William Jennings Bryan",
+      "position": "Defended biblical authority while accepting that some scriptural language could be interpreted."
+    },
+    "significance": "The trial became a landmark public conflict over evolution, education and religion. Scopes was convicted; rhetorical impressions did not determine the verdict.",
+    "slug": "darrow-v-bryan-scopes-trial",
+    "date": 1925,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "UMKC Famous Trials - day seven transcript",
+        "url": "https://law2.umkc.edu/faculty/projects/ftrials/scopes/day7.htm"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Darrow v Bryan, Scopes trial",
+    "context": "John Scopes was prosecuted under Tennessee's restriction on teaching human evolution in public schools. Darrow's questioning of Bryan did not function as a normal debate: it took place within a trial and addressed the interpretation of biblical texts.",
+    "deepDive": [
+      "Scopes was convicted and fined; the conviction was later overturned on a technical ground. The public spectacle and the legal outcome are different parts of the story. Accounts that say Darrow simply won often erase that distinction."
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Kennedy v Nixon",
+    "year": "1960",
+    "category": "The campaign trail",
+    "score": 92,
+    "summary": "Kennedy and Nixon faced each other in the first televised general-election presidential debate in the United States.",
+    "left": {
+      "name": "John F. Kennedy",
+      "position": "Presented a case for more energetic leadership and a stronger response to international competition."
+    },
+    "right": {
+      "name": "Richard Nixon",
+      "position": "Defended the administration's record and emphasized his experience in government."
+    },
+    "significance": "The broadcasts made television a central medium of presidential campaigning. Claims that radio and television audiences chose different winners remain disputed.",
+    "slug": "kennedy-v-nixon",
+    "date": 1960,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/september-26-1960-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Kennedy v Nixon"
+  },
+  {
+    "rank": 5,
+    "title": "Reagan v Carter",
+    "year": "1980",
+    "category": "The campaign trail",
+    "score": 90,
+    "summary": "Carter and Reagan met in the closing days of the 1980 presidential campaign.",
+    "left": {
+      "name": "Ronald Reagan",
+      "position": "Challenged Carter's economic and foreign-policy record and proposed a change in direction."
+    },
+    "right": {
+      "name": "Jimmy Carter",
+      "position": "Defended his presidency and questioned the risks of Reagan's proposals."
+    },
+    "significance": "The debate remains a prominent example of how framing and performance shape electoral argument, without proving that one event alone decided the election.",
+    "slug": "reagan-v-carter",
+    "date": 1980,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Reagan Library - debate record",
+        "url": "https://www.reaganlibrary.gov/archives/speech/1980-ronald-reagan-and-jimmy-carter-presidential-debate"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Reagan v Carter"
+  },
+  {
+    "rank": 6,
+    "title": "Socrates v Callicles",
+    "year": "c. 380 BC",
+    "category": "The ancient world",
+    "score": 89,
+    "summary": "Plato's Gorgias stages a dialogue about rhetoric, justice and the good life.",
+    "left": {
+      "name": "Socrates",
+      "position": "Argued that justice and a well-ordered soul matter more than unchecked power or pleasure."
+    },
+    "right": {
+      "name": "Callicles",
+      "position": "Defended the stronger person's claim to rule and the satisfaction of expansive desires."
+    },
+    "significance": "The clash offers an enduring philosophical test of whether success and power can substitute for moral justification.",
+    "slug": "socrates-v-callicles",
+    "date": -380,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "Plato, Gorgias - Perseus Digital Library (tlg0059.tlg023)",
+        "url": "https://www.perseus.tufts.edu/"
+      }
+    ],
+    "form": "Literary dialogue",
+    "recordNote": "The surviving work is a literary and philosophical account, not a verbatim recording of a historical conversation. Its composition and dramatic setting are distinct.",
+    "shortTitle": "Socrates v Callicles"
+  },
+  {
+    "rank": 7,
+    "title": "Webster v Hayne",
+    "year": "1830",
+    "category": "Parliament & Congress",
+    "score": 87,
+    "summary": "A Senate discussion of public lands broadened into a dispute over the Union and state sovereignty.",
+    "left": {
+      "name": "Daniel Webster",
+      "position": "Defended a national Union and rejected unilateral state nullification of federal law."
+    },
+    "right": {
+      "name": "Robert Y. Hayne",
+      "position": "Defended state authority and the South's constitutional and political interests."
+    },
+    "significance": "Webster's Second Reply became a defining statement of nationalism in the decades before the Civil War.",
+    "slug": "webster-v-hayne",
+    "date": 1830,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "US Senate - 'The Most Famous Senate Speech'",
+        "url": "https://www.senate.gov/artandhistory/history/minute/The_Most_Famous_Senate_Speech.htm"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Webster v Hayne"
+  },
+  {
+    "rank": 8,
+    "title": "Wilberforce, abolition speech",
+    "year": "1789",
+    "category": "Parliament & Congress",
+    "score": 87,
+    "summary": "Wilberforce presented his major case against the slave trade in the House of Commons in 1789.",
+    "left": {
+      "name": "William Wilberforce",
+      "position": "Called for ending the British slave trade, citing its violence and human costs."
+    },
+    "right": {
+      "name": "Defenders of the slave trade",
+      "position": "Resisted abolition through economic, political and imperial arguments."
+    },
+    "significance": "The speech was part of a long abolition campaign. Parliament abolished the British slave trade in 1807, not on the night of the speech.",
+    "slug": "wilberforce-abolition-speech",
+    "date": 1789,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "UK Parliament - Wilberforce makes the case",
+        "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/overview/wilberforce-makes-the-case/"
+      }
+    ],
+    "form": "Speech in a wider controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Wilberforce, abolition speech"
+  },
+  {
+    "rank": 9,
+    "title": "Tharoor, Oxford Union",
+    "year": "2015",
+    "category": "The public stage",
+    "score": 87,
+    "summary": "Tharoor spoke at the Oxford Union for a motion that Britain owed reparations to former colonies.",
+    "left": {
+      "name": "Shashi Tharoor",
+      "position": "Argued that Britain's colonial history created a moral obligation to offer reparations."
+    },
+    "right": {
+      "name": "Opponents of the motion",
+      "position": "Challenged the case for reparations and the responsibility of later generations."
+    },
+    "significance": "The widely circulated speech brought arguments about colonial extraction and historical responsibility to a large public audience.",
+    "slug": "tharoor-oxford-union",
+    "date": 2015,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Full speech transcript - Contemporary Journal",
+        "url": "https://www.contemporaryjournal.com/index.php/14/article/download/201/169"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Tharoor, Oxford Union"
+  },
+  {
+    "rank": 10,
+    "title": "Russell v Copleston",
+    "year": "1948",
+    "category": "Faith & philosophy",
+    "score": 86,
+    "summary": "Russell and Copleston debated God's existence on BBC radio in 1948.",
+    "left": {
+      "name": "Bertrand Russell",
+      "position": "Rejected the claim that the universe must have a further explanation grounded in God."
+    },
+    "right": {
+      "name": "Frederick Copleston",
+      "position": "Defended a cosmological argument and a religious grounding for moral experience."
+    },
+    "significance": "Their exchange remains a teaching text on explanation, contingency and the limits of metaphysical argument.",
+    "slug": "russell-v-copleston",
+    "date": 1948,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Full transcript - copleston.net",
+        "url": "https://www.copleston.net/RussellvsCopleston.pdf"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Russell v Copleston",
+    "context": "Copleston argued that contingent beings require an explanation and that the explanation must reach beyond the series of contingent things. Russell questioned the inference from explanations of particular things to an explanation of the universe as a whole.",
+    "deepDive": [
+      "The disagreement is partly about what counts as an explanation. Copleston asks why anything exists; Russell challenges the assumption that the whole universe must have the same kind of cause or reason as a particular event. The debate also turns to morality and religious experience."
+    ]
+  },
+  {
+    "rank": 11,
+    "title": "Cicero v Catiline",
+    "year": "63 BC",
+    "category": "The ancient world",
+    "score": 86,
+    "summary": "Cicero's First Catilinarian addressed Catiline in the Senate during the conspiracy crisis of 63 BCE.",
+    "left": {
+      "name": "Marcus Tullius Cicero",
+      "position": "Accused Catiline of conspiring against the Roman state and demanded action."
+    },
+    "right": {
+      "name": "Lucius Sergius Catilina",
+      "position": "Denied or resisted the accusations and challenged the political order Cicero defended."
+    },
+    "significance": "The speech is a major example of Roman political oratory. It survives through Cicero's published version, not a neutral transcript.",
+    "slug": "cicero-v-catiline",
+    "date": -63,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "Cicero, In Catilinam I - Perseus",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Cic.+Catil.+1"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Cicero v Catiline"
+  },
+  {
+    "rank": 12,
+    "title": "Stevenson v Zorin",
+    "year": "1962",
+    "category": "The public stage",
+    "score": 86,
+    "summary": "At the UN Security Council during the Cuban Missile Crisis, Stevenson confronted Zorin about Soviet missiles in Cuba.",
+    "left": {
+      "name": "Adlai Stevenson",
+      "position": "Pressed the Soviet representative about missiles in Cuba and presented photographic evidence."
+    },
+    "right": {
+      "name": "Valerian Zorin",
+      "position": "Resisted Stevenson's demand for an immediate yes-or-no answer."
+    },
+    "significance": "The encounter shows how evidence and public diplomacy operated inside a crisis whose resolution depended on wider negotiations.",
+    "slug": "stevenson-v-zorin",
+    "date": 1962,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Wikisource - the Security Council record",
+        "url": "https://en.wikisource.org/wiki/Adlai_Stevenson%27s_Cuban_Missile_Crisis_speech_to_the_United_Nations_Security_Council"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Stevenson v Zorin"
+  },
+  {
+    "rank": 13,
+    "title": "Demosthenes v Aeschines",
+    "year": "330 BC",
+    "category": "The ancient world",
+    "score": 85,
+    "summary": "The prosecution of Ctesiphon became a contest between Aeschines and Demosthenes over Athenian policy.",
+    "left": {
+      "name": "Demosthenes",
+      "position": "Defended his political conduct and Athens's resistance to Macedonian power."
+    },
+    "right": {
+      "name": "Aeschines",
+      "position": "Challenged the proposed award of a crown and attacked Demosthenes's record."
+    },
+    "significance": "On the Crown became a lasting model of forensic and political rhetoric. It defended a career as much as a legal proposal.",
+    "slug": "demosthenes-v-aeschines",
+    "date": -330,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "Demosthenes, On the Crown - Perseus",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0072:18"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Demosthenes v Aeschines"
+  },
+  {
+    "rank": 14,
+    "title": "Fry & Hitchens v the Church",
+    "year": "2009",
+    "category": "Faith & philosophy",
+    "score": 85,
+    "summary": "An Intelligence Squared debate examined the Catholic Church's effects on society.",
+    "left": {
+      "name": "Stephen Fry & Christopher Hitchens",
+      "position": "Argued against the motion that the Catholic Church was a force for good."
+    },
+    "right": {
+      "name": "John Onaiyekan & Ann Widdecombe",
+      "position": "Defended the Church's spiritual, social and charitable contributions."
+    },
+    "significance": "The event brought institutional responsibility and religious belief into a public debating format with audience votes.",
+    "slug": "fry-hitchens-v-the-church",
+    "date": 2009,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Full transcript - Intelligence Squared (PDF)",
+        "url": "https://wegoats.com/files/Intelligence-Squared-Catholic-church-debate-transcript.pdf"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Fry & Hitchens v the Church"
+  },
+  {
+    "rank": 15,
+    "title": "Brown v Board",
+    "year": "1952-53",
+    "category": "The courtroom",
+    "score": 84,
+    "summary": "The Supreme Court heard arguments in the school-segregation cases that became Brown v. Board of Education.",
+    "left": {
+      "name": "Thurgood Marshall & the plaintiffs",
+      "position": "Argued that racial segregation in public schools violated equal protection."
+    },
+    "right": {
+      "name": "Defenders of segregated schools",
+      "position": "Defended segregation through precedent and claims about state educational authority."
+    },
+    "significance": "The 1954 decision rejected segregated public schooling as constitutionally unequal, while implementation faced prolonged resistance.",
+    "slug": "brown-v-board",
+    "date": 1952,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Oral argument transcripts - Oyez",
+        "url": "https://brown.oyez.org/transcripts/"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Brown v Board"
+  },
+  {
+    "rank": 16,
+    "title": "Ford v Carter",
+    "year": "1976",
+    "category": "The campaign trail",
+    "score": 83,
+    "summary": "Ford and Carter debated in 1976; the second debate included Ford's disputed statement about Soviet domination of Eastern Europe.",
+    "left": {
+      "name": "Gerald Ford",
+      "position": "Defended his administration's foreign policy and economic record."
+    },
+    "right": {
+      "name": "Jimmy Carter",
+      "position": "Challenged Ford's record and offered a change in leadership."
+    },
+    "significance": "The exchange became a cautionary case about factual claims under pressure. Its precise effect on the election is harder to isolate.",
+    "slug": "ford-v-carter",
+    "date": 1976,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-6-1976-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Ford v Carter"
+  },
+  {
+    "rank": 17,
+    "title": "The 1992 town hall",
+    "year": "1992",
+    "category": "The campaign trail",
+    "score": 83,
+    "summary": "The 1992 presidential candidates answered questions from voters in a televised town hall.",
+    "left": {
+      "name": "George H. W. Bush",
+      "position": "Defended his presidential record and approach to economic recovery."
+    },
+    "right": {
+      "name": "Bill Clinton & Ross Perot",
+      "position": "Clinton argued for policy change; Perot emphasized fiscal reform and political independence."
+    },
+    "significance": "The encounter demonstrated how direct voter questions and candidates' manner could reshape the familiar televised debate format.",
+    "slug": "the-1992-town-hall",
+    "date": 1992,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "C-SPAN - full debate video",
+        "url": "https://www.c-span.org/program/american-history-tv/presidential-candidates-debate/133711"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "1992 town hall"
+  },
+  {
+    "rank": 18,
+    "title": "Gore v Bush",
+    "year": "2000",
+    "category": "The campaign trail",
+    "score": 83,
+    "summary": "Gore and Bush debated domestic and foreign policy during the closely contested 2000 election.",
+    "left": {
+      "name": "Al Gore",
+      "position": "Emphasized policy detail and defended the Clinton administration's record."
+    },
+    "right": {
+      "name": "George W. Bush",
+      "position": "Argued for tax cuts, a different governing style and changes to federal policy."
+    },
+    "significance": "The series remains a study of presentation, policy and media interpretation. Famous moments from different debates should not be collapsed into one event.",
+    "slug": "gore-v-bush",
+    "date": 2000,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-3-2000-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Gore v Bush"
+  },
+  {
+    "rank": 19,
+    "title": "Luther v Eck, Leipzig",
+    "year": "1519",
+    "category": "Faith & philosophy",
+    "score": 82,
+    "summary": "The Leipzig disputation brought Eck into debate with Karlstadt and then Luther in 1519.",
+    "left": {
+      "name": "Martin Luther & Andreas Karlstadt",
+      "position": "Challenged aspects of ecclesiastical authority and defended their theological positions."
+    },
+    "right": {
+      "name": "Johann Eck",
+      "position": "Defended established Church authority and pressed his opponents on doctrine."
+    },
+    "significance": "The dispute exposed questions about councils, papal authority and reform that helped sharpen the Reformation's divisions.",
+    "slug": "luther-v-eck-leipzig",
+    "date": 1519,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "Encyclopaedia Britannica - the Leipzig Disputation",
+        "url": "https://www.britannica.com/topic/Leipzig-disputation"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Luther v Eck, Leipzig"
+  },
+  {
+    "rank": 20,
+    "title": "Jackson v Goering",
+    "year": "1946",
+    "category": "The courtroom",
+    "score": 82,
+    "summary": "Jackson cross-examined Goering at the International Military Tribunal in Nuremberg.",
+    "left": {
+      "name": "Robert H. Jackson",
+      "position": "Used documents and questions to establish responsibility for Nazi crimes."
+    },
+    "right": {
+      "name": "Hermann Goering",
+      "position": "Defended his conduct and contested the prosecution's interpretation of events."
+    },
+    "significance": "The encounter is a major record of accountability after the Second World War, though Jackson's questioning alone did not determine the judgment.",
+    "slug": "jackson-v-goering",
+    "date": 1946,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Yale Avalon Project - the trial record, vol. IX",
+        "url": "https://avalon.law.yale.edu/imt/03-18-46.asp"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Jackson v Goering"
+  },
+  {
+    "rank": 21,
+    "title": "Huxley v Wilberforce",
+    "year": "1860",
+    "category": "Science & reason",
+    "score": 81,
+    "summary": "An 1860 Oxford meeting included a famous exchange between Huxley and Wilberforce about evolution.",
+    "left": {
+      "name": "Thomas Henry Huxley",
+      "position": "Defended the scientific case for evolution against religious and scientific objections."
+    },
+    "right": {
+      "name": "Samuel Wilberforce",
+      "position": "Criticized Darwin's theory and its implications."
+    },
+    "significance": "Later retellings made the exchange an emblem of science versus religion, but no reliable verbatim transcript survives.",
+    "slug": "huxley-v-wilberforce",
+    "date": 1860,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Oxford University Museum - the Great Debate",
+        "url": "https://www.oumnh.ox.ac.uk/great-debate"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
+    "shortTitle": "Huxley v Wilberforce"
+  },
+  {
+    "rank": 22,
+    "title": "Reagan v Mondale",
+    "year": "1984",
+    "category": "The campaign trail",
+    "score": 81,
+    "summary": "Reagan and Mondale's second 1984 presidential debate included Reagan's joke about age and experience.",
+    "left": {
+      "name": "Ronald Reagan",
+      "position": "Defended his record and addressed concerns about his age."
+    },
+    "right": {
+      "name": "Walter Mondale",
+      "position": "Challenged Reagan's policies and fitness for another term."
+    },
+    "significance": "The moment is a familiar example of humor changing the tone of a political encounter, not proof of a single decisive cause for the election result.",
+    "slug": "reagan-v-mondale",
+    "date": 1984,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-21-1984-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Reagan v Mondale"
+  },
+  {
+    "rank": 23,
+    "title": "Socrates' Apology",
+    "year": "399 BC",
+    "category": "The ancient world",
+    "score": 81,
+    "summary": "Plato's Apology presents Socrates's defense at his trial in Athens in 399 BCE.",
+    "left": {
+      "name": "Socrates in Plato's account",
+      "position": "Defended philosophical questioning and challenged his accusers' claims."
+    },
+    "right": {
+      "name": "The prosecution & Athenian jury",
+      "position": "Judged charges of impiety and corrupting the young."
+    },
+    "significance": "The text shaped ideas about conscience, inquiry and the relationship between the individual and the state. It is a literary account, not a court transcript.",
+    "slug": "socrates-apology",
+    "date": -399,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "Plato, Apology - Scaife/Perseus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg002/"
+      }
+    ],
+    "form": "Literary dialogue",
+    "recordNote": "The surviving work is a literary and philosophical account, not a verbatim recording of a historical conversation. Its composition and dramatic setting are distinct.",
+    "shortTitle": "Socrates' Apology"
+  },
+  {
+    "rank": 24,
+    "title": "Bohr v Einstein",
+    "year": "1927 & 1930",
+    "category": "Science & reason",
+    "score": 80,
+    "summary": "Einstein and Bohr disputed the interpretation of quantum mechanics around the 1927 and 1930 Solvay conferences.",
+    "left": {
+      "name": "Albert Einstein",
+      "position": "Questioned whether quantum mechanics offered a complete account of physical reality."
+    },
+    "right": {
+      "name": "Niels Bohr",
+      "position": "Defended the quantum framework and answered Einstein's thought experiments."
+    },
+    "significance": "Their disagreements helped define enduring questions about measurement, probability and physical explanation.",
+    "slug": "bohr-v-einstein",
+    "date": 1927,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Physics (APS) - the Bohr-Einstein debates",
+        "url": "https://physics.aps.org/articles/v8/123"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
+    "shortTitle": "Bohr v Einstein"
+  },
+  {
+    "rank": 25,
+    "title": "Trump v Clinton",
+    "year": "2016",
+    "category": "The campaign trail",
+    "score": 80,
+    "summary": "Clinton and Trump debated in the 2016 US presidential election.",
+    "left": {
+      "name": "Hillary Clinton",
+      "position": "Defended her policy agenda and challenged Trump's qualifications and record."
+    },
+    "right": {
+      "name": "Donald Trump",
+      "position": "Argued for a break with the political establishment and attacked Clinton's record."
+    },
+    "significance": "The encounters show how highly polarized audiences interpret the same performance differently and how short clips compete with extended policy discussion.",
+    "slug": "trump-v-clinton",
+    "date": 2016,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/september-26-2016-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Trump v Clinton"
+  },
+  {
+    "rank": 26,
+    "title": "Oxford, 'King and Country'",
+    "year": "1933",
+    "category": "The public stage",
+    "score": 79,
+    "summary": "The Oxford Union adopted the controversial King and Country motion in 1933.",
+    "left": {
+      "name": "Supporters of the motion",
+      "position": "Supported refusing to fight for King and Country under any circumstances."
+    },
+    "right": {
+      "name": "Opponents of the motion",
+      "position": "Rejected the absolute refusal and defended obligations of national service."
+    },
+    "significance": "The vote caused a public controversy over pacifism and patriotism. The motion and result survive more clearly than the speeches.",
+    "slug": "oxford-king-and-country",
+    "date": 1933,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Oxford Union Library - the King and Country debate",
+        "url": "https://oxfordunionlibrary.org/the-king-and-country-debate/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
+    "shortTitle": "Oxford, 'King and Country'"
+  },
+  {
+    "rank": 27,
+    "title": "Valladolid",
+    "year": "1550-51",
+    "category": "Faith & philosophy",
+    "score": 79,
+    "summary": "A royal junta at Valladolid considered arguments about Spanish rule and warfare in the Americas.",
+    "left": {
+      "name": "Bartolome de las Casas",
+      "position": "Opposed war and coercion against Indigenous peoples and defended their humanity and rights."
+    },
+    "right": {
+      "name": "Juan Gines de Sepulveda",
+      "position": "Argued that conquest and coercion could be justified through his account of natural hierarchy and religion."
+    },
+    "significance": "The controversy is central to the history of empire, human status and conquest. It did not produce a clear, enforceable victory ending colonial violence.",
+    "slug": "valladolid",
+    "date": 1550,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "Gilder Lehrman Institute - primary sources",
+        "url": "https://www.gilderlehrman.org/history-resources/spotlight-primary-source/bartolome-de-las-casas-debates-subjugation-indians-1550"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Valladolid"
+  },
+  {
+    "rank": 28,
+    "title": "The Kitchen Debate",
+    "year": "1959",
+    "category": "The public stage",
+    "score": 79,
+    "summary": "Nixon and Khrushchev exchanged arguments at an American exhibition in Moscow in 1959.",
+    "left": {
+      "name": "Richard Nixon",
+      "position": "Presented American consumer abundance as evidence for capitalism."
+    },
+    "right": {
+      "name": "Nikita Khrushchev",
+      "position": "Defended Soviet society and challenged claims of American superiority."
+    },
+    "significance": "A model kitchen became a stage for the Cold War's competing claims about ordinary life, technology and economic systems.",
+    "slug": "the-kitchen-debate",
+    "date": 1959,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "CIA reading room - the transcript",
+        "url": "https://www.cia.gov/readingroom/docs/1959-07-24.pdf"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Kitchen Debate"
+  },
+  {
+    "rank": 29,
+    "title": "Bentsen v Quayle",
+    "year": "1988",
+    "category": "The campaign trail",
+    "score": 79,
+    "summary": "The 1988 vice-presidential debate included Bentsen's well-known response to Quayle's Kennedy comparison.",
+    "left": {
+      "name": "Lloyd Bentsen",
+      "position": "Challenged Quayle's comparison of his experience to John F. Kennedy's."
+    },
+    "right": {
+      "name": "Dan Quayle",
+      "position": "Defended his qualifications for the vice presidency."
+    },
+    "significance": "The exchange illustrates how a memorable rebuttal can outlive an election without reversing its result.",
+    "slug": "bentsen-v-quayle",
+    "date": 1988,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-5-1988-debate-transcripts/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Bentsen v Quayle"
+  },
+  {
+    "rank": 30,
+    "title": "Obama v Romney, Hofstra",
+    "year": "2012",
+    "category": "The campaign trail",
+    "score": 79,
+    "summary": "The second 2012 presidential debate included a contested exchange about Obama's Rose Garden remarks after Benghazi.",
+    "left": {
+      "name": "Barack Obama",
+      "position": "Defended his administration's response to Benghazi and challenged Romney's account."
+    },
+    "right": {
+      "name": "Mitt Romney",
+      "position": "Questioned the administration's handling and description of the attack."
+    },
+    "significance": "The moment shows the role and limits of on-stage fact-checking. The wider dispute over the administration's messaging was not settled by one intervention.",
+    "slug": "obama-v-romney-hofstra",
+    "date": 2012,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-16-2012-the-second-obama-romney-presidential-debate/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Obama v Romney, Hofstra"
+  },
+  {
+    "rank": 31,
+    "title": "Welch v McCarthy",
+    "year": "1954",
+    "category": "Parliament & Congress",
+    "score": 79,
+    "summary": "A televised hearing in 1954 produced Welch's public challenge to McCarthy's conduct.",
+    "left": {
+      "name": "Joseph Welch",
+      "position": "Objected to McCarthy's attack on a young lawyer connected with his firm."
+    },
+    "right": {
+      "name": "Joseph McCarthy",
+      "position": "Raised accusations during the Army-McCarthy hearings."
+    },
+    "significance": "The encounter became an emblem of resistance to McCarthyism, alongside broader political and institutional developments.",
+    "slug": "welch-v-mccarthy",
+    "date": 1954,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "US Senate - the McCarthy hearings",
+        "url": "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/have-you-no-sense-of-decency.htm"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Welch v McCarthy"
+  },
+  {
+    "rank": 32,
+    "title": "The League fight",
+    "year": "1919",
+    "category": "Parliament & Congress",
+    "score": 79,
+    "summary": "The US Senate debated and rejected ratification of the Treaty of Versailles in 1919-20.",
+    "left": {
+      "name": "Henry Cabot Lodge & treaty critics",
+      "position": "Sought reservations protecting congressional authority and limiting US obligations."
+    },
+    "right": {
+      "name": "Woodrow Wilson & treaty supporters",
+      "position": "Supported joining the League of Nations through ratification of the Treaty of Versailles."
+    },
+    "significance": "The dispute kept the United States outside the League and remains a major case of conflict over international obligations and domestic authority.",
+    "slug": "the-league-fight",
+    "date": 1919,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "US Senate - Lodge's 1919 speech",
+        "url": "https://www.senate.gov/artandhistory/history/common/generic/Speeches_Lodge1919.htm"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "League fight"
+  },
+  {
+    "rank": 33,
+    "title": "Harris v Trump",
+    "year": "2024",
+    "category": "The campaign trail",
+    "score": 79,
+    "summary": "Harris and Trump met in a televised presidential debate in September 2024.",
+    "left": {
+      "name": "Kamala Harris",
+      "position": "Promoted her policy agenda and challenged Trump's record and conduct."
+    },
+    "right": {
+      "name": "Donald Trump",
+      "position": "Criticized the Biden-Harris administration and defended his own record."
+    },
+    "significance": "The debate offers a recent case of strategic provocation, fact-checking and polarized reception. Electoral outcomes cannot be read directly from audience reactions.",
+    "slug": "harris-v-trump",
+    "date": 2024,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "ABC News - full transcript",
+        "url": "https://abcnews.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Harris v Trump"
+  },
+  {
+    "rank": 34,
+    "title": "The Norway debate",
+    "year": "1940",
+    "category": "Parliament & Congress",
+    "score": 79,
+    "summary": "The Norway debate in May 1940 exposed a revolt within the British government's parliamentary support.",
+    "left": {
+      "name": "Critics of Neville Chamberlain",
+      "position": "Challenged the government's conduct of the war after the Norway campaign."
+    },
+    "right": {
+      "name": "Chamberlain's government",
+      "position": "Defended its decisions and sought support in the Commons."
+    },
+    "significance": "Chamberlain survived the division but resigned shortly afterward; Churchill became prime minister amid the wartime political crisis.",
+    "slug": "the-norway-debate",
+    "date": 1940,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Hansard - Conduct of the War, 7-8 May 1940",
+        "url": "https://hansard.parliament.uk/Commons/1940-05-07"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Norway debate"
+  },
+  {
+    "rank": 35,
+    "title": "Gore v Perot, NAFTA",
+    "year": "1993",
+    "category": "The public stage",
+    "score": 78,
+    "summary": "Gore and Perot debated the North American Free Trade Agreement on Larry King Live in 1993.",
+    "left": {
+      "name": "Al Gore",
+      "position": "Defended NAFTA as a means of trade expansion and economic opportunity."
+    },
+    "right": {
+      "name": "Ross Perot",
+      "position": "Warned that NAFTA would damage American jobs and bargaining power."
+    },
+    "significance": "The broadcast became a prominent public encounter over globalization before Congress approved the agreement.",
+    "slug": "gore-v-perot-nafta",
+    "date": 1993,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Paley Center - the broadcast record",
+        "url": "https://www.paleycenter.org/collection/item/?item=T:34511"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Gore v Perot, NAFTA"
+  },
+  {
+    "rank": 36,
+    "title": "Cicero's Philippics",
+    "year": "44-43 BC",
+    "category": "The ancient world",
+    "score": 78,
+    "summary": "Cicero's Philippics were a series of speeches and published attacks against Antony in 44-43 BCE.",
+    "left": {
+      "name": "Marcus Tullius Cicero",
+      "position": "Attacked Mark Antony as a threat to republican government."
+    },
+    "right": {
+      "name": "Mark Antony & his allies",
+      "position": "Contested Cicero's political campaign and fought for control of Rome."
+    },
+    "significance": "The texts show rhetoric operating during the collapse of republican institutions. Some speeches circulated in writing rather than being delivered.",
+    "slug": "cicero-s-philippics",
+    "date": -44,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "Cicero, Philippics - Perseus (phi0474.phi035)",
+        "url": "https://www.perseus.tufts.edu/"
+      }
+    ],
+    "form": "Speech in a wider controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Cicero's Philippics"
+  },
+  {
+    "rank": 37,
+    "title": "The Galileo trial",
+    "year": "1633",
+    "category": "The courtroom",
+    "score": 78,
+    "summary": "Galileo was tried in 1633 over his Dialogue Concerning the Two Chief World Systems.",
+    "left": {
+      "name": "Galileo Galilei",
+      "position": "Defended his handling of heliocentric arguments while facing ecclesiastical charges."
+    },
+    "right": {
+      "name": "The Roman Inquisition",
+      "position": "Enforced restrictions on teaching and defending heliocentrism."
+    },
+    "significance": "The case became a lasting reference point for the relationship between inquiry and institutional authority. The 1992 acknowledgment was not a new scientific verdict.",
+    "slug": "the-galileo-trial",
+    "date": 1633,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "OSU - Documents in the Case of Galileo (PDF)",
+        "url": "https://hti.osu.edu/sites/default/files/documents_in_the_case_of_galileo.pdf"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Galileo trial"
+  },
+  {
+    "rank": 38,
+    "title": "Biden v Trump",
+    "year": "June 2024",
+    "category": "The campaign trail",
+    "score": 78,
+    "summary": "Biden and Trump debated in June 2024, before Biden withdrew from the presidential race.",
+    "left": {
+      "name": "Joe Biden",
+      "position": "Defended his presidential record and sought a second term."
+    },
+    "right": {
+      "name": "Donald Trump",
+      "position": "Challenged Biden's record and defended his own presidency."
+    },
+    "significance": "The encounter placed performance and fitness for office at the center of the campaign, alongside party pressures and later developments.",
+    "slug": "biden-v-trump",
+    "date": 2024,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "CNN - full transcript",
+        "url": "https://www.cnn.com/2024/06/27/politics/read-biden-trump-debate-rush-transcript"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Biden v Trump"
+  },
+  {
+    "rank": 39,
+    "title": "Chomsky v Foucault",
+    "year": "1971",
+    "category": "Faith & philosophy",
+    "score": 77,
+    "summary": "Dutch television brought Chomsky and Foucault together to discuss human nature, justice and political action.",
+    "left": {
+      "name": "Noam Chomsky",
+      "position": "Sought a grounding for justice in human nature and creative capacities."
+    },
+    "right": {
+      "name": "Michel Foucault",
+      "position": "Questioned universal claims about human nature and emphasized power's role in producing knowledge."
+    },
+    "significance": "Their exchange maps a lasting disagreement about whether political criticism needs a universal moral foundation.",
+    "slug": "chomsky-v-foucault",
+    "date": 1971,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Full transcript - chomsky.info",
+        "url": "https://chomsky.info/1971xxxx/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Chomsky v Foucault"
+  },
+  {
+    "rank": 40,
+    "title": "The Zenger trial",
+    "year": "1735",
+    "category": "The courtroom",
+    "score": 77,
+    "summary": "John Peter Zenger's 1735 trial ended in an acquittal after Hamilton appealed to the jury.",
+    "left": {
+      "name": "Andrew Hamilton for Zenger",
+      "position": "Argued that truth should protect a printer from punishment for criticism."
+    },
+    "right": {
+      "name": "The colonial prosecution",
+      "position": "Treated attacks on the governor as punishable seditious libel."
+    },
+    "significance": "The case became an important symbol of press freedom, though the verdict did not itself rewrite the law of libel.",
+    "slug": "the-zenger-trial",
+    "date": 1735,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "NY Courts Historical Society - Crown v Zenger",
+        "url": "https://history.nycourts.gov/case/crown-v-zenger/"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Zenger trial"
+  },
+  {
+    "rank": 41,
+    "title": "Darrow, Leopold & Loeb",
+    "year": "1924",
+    "category": "The courtroom",
+    "score": 77,
+    "summary": "After guilty pleas, Darrow argued against death sentences in the Leopold-Loeb case in 1924.",
+    "left": {
+      "name": "Clarence Darrow",
+      "position": "Asked the judge to spare Leopold and Loeb from execution."
+    },
+    "right": {
+      "name": "The prosecution",
+      "position": "Sought the death penalty for the murder of Bobby Franks."
+    },
+    "significance": "The sentencing argument remains an influential text in debates over capital punishment, youth and responsibility.",
+    "slug": "darrow-leopold-loeb",
+    "date": 1924,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Wikisource - the plea, in full",
+        "url": "https://en.wikisource.org/wiki/The_plea_of_Clarence_Darrow,_August_22nd,_23rd_%26_25th,_MCMXXIII"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Darrow, Leopold & Loeb"
+  },
+  {
+    "rank": 42,
+    "title": "Ambedkar, Constituent Assembly",
+    "year": "1949",
+    "category": "Parliament & Congress",
+    "score": 77,
+    "summary": "Ambedkar's closing address reflected on the work of India's Constituent Assembly in November 1949.",
+    "left": {
+      "name": "B. R. Ambedkar",
+      "position": "Urged constitutional methods, social democracy and caution against political hero worship."
+    },
+    "right": {
+      "name": "The unresolved challenges of the republic",
+      "position": "Social inequality and political practice could undermine the written Constitution."
+    },
+    "significance": "The speech remains a major statement of the gap between constitutional promises and the social conditions needed to sustain them.",
+    "slug": "ambedkar-constituent-assembly",
+    "date": 1949,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Closing speech - official record (sci.gov.in PDF)",
+        "url": "https://api.sci.gov.in/AMB/pdf/Closing%20speech%2025%20Nov%201949.pdf"
+      }
+    ],
+    "form": "Speech in a wider controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Ambedkar, Constituent Assembly"
+  },
+  {
+    "rank": 43,
+    "title": "The Susan B. Anthony trial",
+    "year": "1873",
+    "category": "The courtroom",
+    "score": 76,
+    "summary": "Anthony's 1873 trial included a directed guilty verdict and her protest at sentencing.",
+    "left": {
+      "name": "Susan B. Anthony",
+      "position": "Argued that citizenship entitled women to vote and challenged the fairness of her trial."
+    },
+    "right": {
+      "name": "Judge Ward Hunt & the prosecution",
+      "position": "Applied election law to convict Anthony for voting in 1872."
+    },
+    "significance": "The case became a touchstone of the women's suffrage campaign and of criticism of judicial procedure. The fine was $100, not one dollar.",
+    "slug": "the-susan-b-anthony-trial",
+    "date": 1873,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Federal Judicial Center - the trial record (PDF)",
+        "url": "https://www.fjc.gov/sites/default/files/trials/susanbanthony.pdf"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Susan B. Anthony trial"
+  },
+  {
+    "rank": 44,
+    "title": "Bryan, 'Cross of Gold'",
+    "year": "1896",
+    "category": "The campaign trail",
+    "score": 76,
+    "summary": "Bryan delivered his Cross of Gold speech during the 1896 Democratic convention's platform debate.",
+    "left": {
+      "name": "William Jennings Bryan",
+      "position": "Defended free silver and the economic interests he associated with debtors and labor."
+    },
+    "right": {
+      "name": "Gold-standard Democrats",
+      "position": "Defended the gold standard and challenged the free-silver platform."
+    },
+    "significance": "The speech helped secure his nomination and became a lasting expression of the monetary conflicts of the era.",
+    "slug": "bryan-cross-of-gold",
+    "date": 1896,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Wikisource - the full speech",
+        "url": "https://en.wikisource.org/wiki/Cross_of_Gold_Speech"
+      }
+    ],
+    "form": "Speech in a wider controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Bryan, 'Cross of Gold'"
+  },
+  {
+    "rank": 45,
+    "title": "Roe v Wade",
+    "year": "1971-72 arguments · 1973 ruling",
+    "category": "The courtroom",
+    "score": 76,
+    "summary": "The Supreme Court heard Roe v. Wade arguments in 1971 and a reargument in 1972 before deciding in 1973.",
+    "left": {
+      "name": "Sarah Weddington & Roe's legal team",
+      "position": "Challenged Texas's abortion law through constitutional arguments."
+    },
+    "right": {
+      "name": "Texas's representatives",
+      "position": "Defended the state's power to restrict abortion."
+    },
+    "significance": "The decision transformed US abortion law and was later overturned in Dobbs in 2022. Argument dates differ from the decision year.",
+    "slug": "roe-v-wade",
+    "date": 1971,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Oral arguments - Oyez",
+        "url": "https://www.oyez.org/cases/1970/70-18"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Roe v Wade"
+  },
+  {
+    "rank": 46,
+    "title": "Chomsky v Buckley",
+    "year": "1969",
+    "category": "The public stage",
+    "score": 75,
+    "summary": "Chomsky appeared on Buckley's Firing Line in 1969 to discuss Vietnam and the role of intellectuals.",
+    "left": {
+      "name": "Noam Chomsky",
+      "position": "Challenged US policy in Vietnam and the intellectual justifications offered for it."
+    },
+    "right": {
+      "name": "William F. Buckley Jr.",
+      "position": "Defended his political framework and disputed Chomsky's critique."
+    },
+    "significance": "The encounter preserves competing approaches to evidence, legitimacy and American power during the Vietnam War.",
+    "slug": "chomsky-v-buckley",
+    "date": 1969,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Hoover Institution - the full program",
+        "url": "https://digitalcollections.hoover.org/objects/6077/vietnam-and-the-intellectuals"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Chomsky v Buckley"
+  },
+  {
+    "rank": 47,
+    "title": "Mulroney v Turner",
+    "year": "1984",
+    "category": "The campaign trail",
+    "score": 75,
+    "summary": "Canada's 1984 leaders' debate included a sharp exchange over political patronage.",
+    "left": {
+      "name": "Brian Mulroney",
+      "position": "Attacked patronage appointments as a matter of choice and responsibility."
+    },
+    "right": {
+      "name": "John Turner",
+      "position": "Defended his decision to honor appointments associated with the outgoing government."
+    },
+    "significance": "The exchange became a lasting part of Canadian campaign history, linking personal responsibility to a concrete governing decision.",
+    "slug": "mulroney-v-turner",
+    "date": 1984,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "CBC Archives - the debate video",
+        "url": "https://www.cbc.ca/player/play/video/1.3627863"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Mulroney v Turner"
+  },
+  {
+    "rank": 48,
+    "title": "UK leaders' debates",
+    "year": "2010",
+    "category": "The campaign trail",
+    "score": 74,
+    "summary": "Britain held its first televised general-election leaders' debates in 2010.",
+    "left": {
+      "name": "Nick Clegg",
+      "position": "Challenged both major parties and presented the Liberal Democrats as an alternative."
+    },
+    "right": {
+      "name": "Gordon Brown & David Cameron",
+      "position": "Defended their parties' records and plans while contesting each other's claims."
+    },
+    "significance": "The format gave a third-party leader unusual visibility and became part of British election campaigning.",
+    "slug": "uk-leaders-debates",
+    "date": 2010,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "BBC - full transcript",
+        "url": "https://news.bbc.co.uk/1/hi/8621119.stm"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "UK leaders' debates"
+  },
+  {
+    "rank": 49,
+    "title": "Dewey v Stassen",
+    "year": "1948",
+    "category": "The campaign trail",
+    "score": 73,
+    "summary": "Dewey and Stassen debated Communist Party legality on national radio before the 1948 Oregon primary.",
+    "left": {
+      "name": "Thomas E. Dewey",
+      "position": "Opposed outlawing the Communist Party in favor of constitutional protections and law enforcement."
+    },
+    "right": {
+      "name": "Harold Stassen",
+      "position": "Supported outlawing the party as a response to communist threats."
+    },
+    "significance": "The single-question encounter is an early landmark in broadcast presidential campaigning.",
+    "slug": "dewey-v-stassen",
+    "date": 1948,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - 1948 history",
+        "url": "https://www.debates.org/debate-history/1948-debate/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Dewey v Stassen"
+  },
+  {
+    "rank": 50,
+    "title": "The Milindapanha",
+    "year": "Literary text · c. 1st century BCE onward",
+    "category": "Faith & philosophy",
+    "score": 73,
+    "summary": "The Milindapanha presents a dialogue between King Milinda and the Buddhist monk Nagasena.",
+    "left": {
+      "name": "King Milinda",
+      "position": "Questions the monk about identity, rebirth and Buddhist doctrine."
+    },
+    "right": {
+      "name": "Nagasena",
+      "position": "Explains Buddhist positions through reasoning and analogies such as the chariot."
+    },
+    "significance": "The work is a major Buddhist philosophical text. Its literary development is later than the historical reign associated with Menander, not a verbatim ancient transcript.",
+    "slug": "the-milindapanha",
+    "date": -100,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "The Questions of King Milinda - record",
+        "url": "https://encyclopediaofbuddhism.org/wiki/Milindapanha"
+      }
+    ],
+    "form": "Literary dialogue",
+    "recordNote": "The surviving work is a literary and philosophical account, not a verbatim recording of a historical conversation. Its composition and dramatic setting are distinct.",
+    "shortTitle": "Milindapanha"
+  },
+  {
+    "rank": 51,
+    "title": "The Wilde trials",
+    "year": "1895",
+    "category": "The courtroom",
+    "score": 73,
+    "summary": "Wilde's 1895 libel action preceded criminal proceedings that led to his conviction.",
+    "left": {
+      "name": "Oscar Wilde",
+      "position": "Defended his writings and conduct during the libel proceedings."
+    },
+    "right": {
+      "name": "Edward Carson",
+      "position": "Challenged Wilde through letters, testimony and cross-examination."
+    },
+    "significance": "The trial records illuminate the relationship between rhetoric, sexuality, criminal law and social power in Victorian Britain.",
+    "slug": "the-wilde-trials",
+    "date": 1895,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Famous Trials (UMKC) - the cross-examination",
+        "url": "https://www.famous-trials.com/wilde/330-libel"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Wilde trials"
+  },
+  {
+    "rank": 52,
+    "title": "Bush v Dukakis II",
+    "year": "1988",
+    "category": "The campaign trail",
+    "score": 73,
+    "summary": "The second 1988 presidential debate opened with a question about violence against Dukakis's wife.",
+    "left": {
+      "name": "Michael Dukakis",
+      "position": "Opposed the death penalty and answered the hypothetical through policy."
+    },
+    "right": {
+      "name": "George H. W. Bush",
+      "position": "Defended capital punishment and challenged Dukakis's record."
+    },
+    "significance": "The episode is often discussed as a test of emotional response, but later campaign narratives should not substitute for measured causal evidence.",
+    "slug": "bush-v-dukakis-ii",
+    "date": 1988,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-13-1988-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Bush v Dukakis II"
+  },
+  {
+    "rank": 53,
+    "title": "Macron v Le Pen",
+    "year": "2017",
+    "category": "The campaign trail",
+    "score": 72,
+    "summary": "Macron and Le Pen met in the final televised debate of France's 2017 presidential election.",
+    "left": {
+      "name": "Emmanuel Macron",
+      "position": "Defended his program and challenged Le Pen's policy proposals."
+    },
+    "right": {
+      "name": "Marine Le Pen",
+      "position": "Attacked Macron's record and defended her nationalist platform."
+    },
+    "significance": "The encounter was a major public contest over Europe, economic policy and national identity before the runoff.",
+    "slug": "macron-v-le-pen",
+    "date": 2017,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "France 24 - the full debate",
+        "url": "https://www.france24.com/en/video/20170503-replay-watch-full-french-presidential-debate-between-macron-le-pen"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Macron v Le Pen"
+  },
+  {
+    "rank": 54,
+    "title": "The Marburg Colloquy",
+    "year": "1529",
+    "category": "Faith & philosophy",
+    "score": 71,
+    "summary": "The 1529 Marburg Colloquy sought agreement among Protestant reformers.",
+    "left": {
+      "name": "Martin Luther",
+      "position": "Maintained his account of Christ's presence in the Eucharist."
+    },
+    "right": {
+      "name": "Huldrych Zwingli",
+      "position": "Defended a different interpretation of the Eucharist."
+    },
+    "significance": "Agreement on many articles could not overcome disagreement about the Eucharist, exposing an important division within the Reformation.",
+    "slug": "the-marburg-colloquy",
+    "date": 1529,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "The Marburg Articles - German History in Documents",
+        "url": "https://germanhistorydocs.org/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Marburg Colloquy"
+  },
+  {
+    "rank": 55,
+    "title": "Shapley v Curtis",
+    "year": "1920",
+    "category": "Science & reason",
+    "score": 71,
+    "summary": "The 1920 Great Debate examined the scale of the universe and the nature of spiral nebulae.",
+    "left": {
+      "name": "Harlow Shapley",
+      "position": "Argued for a large Milky Way and against treating spiral nebulae as comparable external galaxies."
+    },
+    "right": {
+      "name": "Heber Curtis",
+      "position": "Argued that spiral nebulae were separate galaxies outside a smaller Milky Way."
+    },
+    "significance": "Later observations resolved central questions. Each scientist was correct on some issues and mistaken on others; Curtis was not a woman.",
+    "slug": "shapley-v-curtis",
+    "date": 1920,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "National Academy of Sciences - the Great Debate",
+        "url": "https://www.nasonline.org/about-nas/history/archives/milestones-in-NAS-history/the-great-debate-of-1920.html"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Shapley v Curtis"
+  },
+  {
+    "rank": 56,
+    "title": "Cochran, the Simpson closing",
+    "year": "1995",
+    "category": "The courtroom",
+    "score": 71,
+    "summary": "Closing arguments in the 1995 O. J. Simpson criminal trial framed the evidence for the jury.",
+    "left": {
+      "name": "Johnnie Cochran for Simpson",
+      "position": "Challenged the reliability of the prosecution's case and its handling of evidence."
+    },
+    "right": {
+      "name": "The prosecution",
+      "position": "Argued that forensic and other evidence established Simpson's guilt."
+    },
+    "significance": "The trial remains a contested case about race, policing, evidence and public trust. The criminal acquittal is distinct from the later civil judgment.",
+    "slug": "cochran-the-simpson-closing",
+    "date": 1995,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "New York Times - the closing, on the record",
+        "url": "https://www.nytimes.com/1995/09/28/us/simpson-s-lawyer-tells-jury-that-evidence-doesn-t-fit.html"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Cochran, the Simpson closing"
+  },
+  {
+    "rank": 57,
+    "title": "The suffrage fight, US Senate",
+    "year": "1918-19",
+    "category": "Parliament & Congress",
+    "score": 71,
+    "summary": "The Senate debated the woman-suffrage amendment in 1918 and 1919.",
+    "left": {
+      "name": "Woman-suffrage supporters",
+      "position": "Argued that women should have constitutionally protected voting rights."
+    },
+    "right": {
+      "name": "Opponents of the amendment",
+      "position": "Resisted a federal amendment on political, social and states' rights grounds."
+    },
+    "significance": "Congress proposed the Nineteenth Amendment in 1919 and it was ratified in 1920; barriers to voting continued for many women.",
+    "slug": "the-suffrage-fight-us-senate",
+    "date": 1918,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "US Senate - A Vote for Women",
+        "url": "https://www.senate.gov/artandhistory/history/minute/A_Vote_For_Women.htm"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "suffrage fight, US Senate"
+  },
+  {
+    "rank": 58,
+    "title": "Webster v Calhoun",
+    "year": "1833",
+    "category": "Parliament & Congress",
+    "score": 71,
+    "summary": "The 1833 Senate arguments over the Force Bill addressed the nullification crisis.",
+    "left": {
+      "name": "Daniel Webster",
+      "position": "Rejected nullification and defended federal constitutional authority."
+    },
+    "right": {
+      "name": "John C. Calhoun",
+      "position": "Defended state sovereignty and his compact account of the Constitution."
+    },
+    "significance": "The texts preserve competing theories of the Union that continued to shape American constitutional conflict.",
+    "slug": "webster-v-calhoun",
+    "date": 1833,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "National Constitution Center - Webster's reply",
+        "url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/daniel-webster-the-constitution-is-not-a-compact-1833"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Webster v Calhoun"
+  },
+  {
+    "rank": 59,
+    "title": "Giscard v Mitterrand",
+    "year": "1974",
+    "category": "The campaign trail",
+    "score": 71,
+    "summary": "France's 1974 presidential runoff featured its first televised presidential debate.",
+    "left": {
+      "name": "Valery Giscard d'Estaing",
+      "position": "Defended his economic and governing program against Mitterrand's critique."
+    },
+    "right": {
+      "name": "Francois Mitterrand",
+      "position": "Argued for political and social change through the left's program."
+    },
+    "significance": "The encounter established a durable feature of French campaigning and a public stage for contrasting political programs.",
+    "slug": "giscard-v-mitterrand",
+    "date": 1974,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "INA - the first French televised debate",
+        "url": "https://www.ina.fr/ina-eclaire-actu/1974-les-coulisses-du-premier-debat-televise"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Giscard v Mitterrand"
+  },
+  {
+    "rank": 60,
+    "title": "Vidal v Buckley",
+    "year": "1968",
+    "category": "The public stage",
+    "score": 70,
+    "summary": "ABC paired Vidal and Buckley for confrontational coverage of the 1968 political conventions.",
+    "left": {
+      "name": "Gore Vidal",
+      "position": "Attacked Buckley's politics during televised convention commentary."
+    },
+    "right": {
+      "name": "William F. Buckley Jr.",
+      "position": "Defended his conservative position and responded to Vidal's provocations."
+    },
+    "significance": "The broadcasts are a record of the movement from analysis toward personality-driven political conflict on television.",
+    "slug": "vidal-v-buckley",
+    "date": 1968,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "PBS NewsHour - the moment punditry was born",
+        "url": "https://www.pbs.org/newshour/arts/moment-political-punditry-born"
+      }
+    ],
+    "form": "Televised confrontation",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Vidal v Buckley"
+  },
+  {
+    "rank": 61,
+    "title": "The Hastings impeachment",
+    "year": "1788-95",
+    "category": "The courtroom",
+    "score": 70,
+    "summary": "Hastings's impeachment trial ran from 1788 to 1795 and ended in acquittal.",
+    "left": {
+      "name": "Edmund Burke & the Commons managers",
+      "position": "Prosecuted Hastings over alleged abuses of British rule in India."
+    },
+    "right": {
+      "name": "Warren Hastings & his defense",
+      "position": "Contested the accusations and defended his administration."
+    },
+    "significance": "The proceedings became a major public argument about empire, corruption and the accountability of colonial officials.",
+    "slug": "the-hastings-impeachment",
+    "date": 1788,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "Springer - Burke's prosecution, scholarly record (PDF)",
+        "url": "https://link.springer.com/content/pdf/10.1057/9781137490049_8"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Hastings impeachment"
+  },
+  {
+    "rank": 62,
+    "title": "The Pankhurst trial",
+    "year": "1908",
+    "category": "The courtroom",
+    "score": 69,
+    "summary": "The 1908 proceedings against suffragette leaders became a published movement document.",
+    "left": {
+      "name": "Emmeline Pankhurst & WSPU leaders",
+      "position": "Defended their protest campaign and challenged restrictions on political action."
+    },
+    "right": {
+      "name": "The Bow Street court",
+      "position": "Heard charges arising from efforts to mobilize crowds at Parliament."
+    },
+    "significance": "The case belongs to the history of militant suffrage and protest. The original pamphlet exists, but open access to its full text is limited.",
+    "slug": "the-pankhurst-trial",
+    "date": 1908,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Routledge - The Trial of the Suffragette Leaders (record)",
+        "url": "https://www.routledgehistoricalresources.com/feminism"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "The 1909 WSPU pamphlet is documented in collections and modern editions, but its complete original text was not openly accessible in the source study. This summary does not quote it.",
+    "shortTitle": "Pankhurst trial"
+  },
+  {
+    "rank": 63,
+    "title": "Cicero, In Verrem",
+    "year": "70 BC",
+    "category": "The ancient world",
+    "score": 69,
+    "summary": "Cicero's prosecution of Verres in 70 BCE produced the Verrine speeches.",
+    "left": {
+      "name": "Marcus Tullius Cicero",
+      "position": "Prosecuted Verres for corruption and abuses in Sicily."
+    },
+    "right": {
+      "name": "Gaius Verres & his defense",
+      "position": "Resisted the prosecution and disputed its charges."
+    },
+    "significance": "The prosecution established Cicero's reputation and preserved extensive allegations about provincial government; later published speeches were not all delivered.",
+    "slug": "cicero-in-verrem",
+    "date": -70,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "Cicero, the Verrines - Perseus",
+        "url": "https://www.perseus.tufts.edu/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Cicero, In Verrem"
+  },
+  {
+    "rank": 64,
+    "title": "Ferraro v Bush",
+    "year": "1984",
+    "category": "The campaign trail",
+    "score": 69,
+    "summary": "Ferraro and Bush met in the 1984 vice-presidential debate.",
+    "left": {
+      "name": "Geraldine Ferraro",
+      "position": "Defended the Democratic ticket and challenged Bush's treatment of her experience."
+    },
+    "right": {
+      "name": "George H. W. Bush",
+      "position": "Defended the Reagan administration and his qualifications."
+    },
+    "significance": "The event was a landmark in the visibility of women on major-party presidential tickets and in discussion of gendered political authority.",
+    "slug": "ferraro-v-bush",
+    "date": 1984,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-11-1984-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Ferraro v Bush"
+  },
+  {
+    "rank": 65,
+    "title": "Trump v Biden I",
+    "year": "2020",
+    "category": "The campaign trail",
+    "score": 69,
+    "summary": "The first 2020 presidential debate was marked by repeated interruptions.",
+    "left": {
+      "name": "Donald Trump",
+      "position": "Attacked Biden and defended his presidential record."
+    },
+    "right": {
+      "name": "Joe Biden",
+      "position": "Challenged Trump's record and proposed an alternative agenda."
+    },
+    "significance": "The encounter prompted changes to microphone rules for the later debate and raised questions about whether the format could support meaningful exchange.",
+    "slug": "trump-v-biden-i",
+    "date": 2020,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/september-29-2020-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Trump v Biden I"
+  },
+  {
+    "rank": 66,
+    "title": "Malcolm X v Rustin",
+    "year": "1960",
+    "category": "The public stage",
+    "score": 68,
+    "summary": "Malcolm X and Rustin debated different strategies for Black freedom in 1960.",
+    "left": {
+      "name": "Malcolm X",
+      "position": "Defended Black self-determination and separation from white-controlled institutions."
+    },
+    "right": {
+      "name": "Bayard Rustin",
+      "position": "Defended integration and organized nonviolent political action."
+    },
+    "significance": "The recording preserves disagreements within the struggle for racial justice rather than a single unified movement position.",
+    "slug": "malcolm-x-v-rustin",
+    "date": 1960,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Pacifica Radio Archives - the recording",
+        "url": "https://www.pacificaradioarchives.org/recording/bb3014/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Malcolm X v Rustin"
+  },
+  {
+    "rank": 67,
+    "title": "Hitchens v Galloway",
+    "year": "2005",
+    "category": "The public stage",
+    "score": 68,
+    "summary": "Hitchens and Galloway debated the Iraq War in New York in 2005.",
+    "left": {
+      "name": "Christopher Hitchens",
+      "position": "Defended the invasion of Iraq and attacked Galloway's political record."
+    },
+    "right": {
+      "name": "George Galloway",
+      "position": "Opposed the Iraq invasion and challenged Hitchens's justification for it."
+    },
+    "significance": "The encounter preserves a sharp division over intervention, imperial power and the moral claims made for war.",
+    "slug": "hitchens-v-galloway",
+    "date": 2005,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "The Guardian - report and record",
+        "url": "https://www.theguardian.com/world/2005/sep/15/media.usa"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Hitchens v Galloway"
+  },
+  {
+    "rank": 68,
+    "title": "Fry & Peterson, Munk",
+    "year": "2018",
+    "category": "The public stage",
+    "score": 68,
+    "summary": "The 2018 Munk debate considered whether political correctness represented progress.",
+    "left": {
+      "name": "Stephen Fry & Jordan Peterson",
+      "position": "Argued against political correctness in the terms of the motion."
+    },
+    "right": {
+      "name": "Michael Eric Dyson & Michelle Goldberg",
+      "position": "Defended the role of norms and criticism in confronting inequality."
+    },
+    "significance": "The event brought differing accounts of expression, dignity and power into a public audience-vote format.",
+    "slug": "fry-peterson-munk",
+    "date": 2018,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Munk Debates - Political Correctness",
+        "url": "https://www.munkdebates.com/debates/political-correctness/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Fry & Peterson, Munk"
+  },
+  {
+    "rank": 69,
+    "title": "Nye v Ham",
+    "year": "2014",
+    "category": "Science & reason",
+    "score": 68,
+    "summary": "Nye and Ham debated the viability of creationism at the Creation Museum in 2014.",
+    "left": {
+      "name": "Bill Nye",
+      "position": "Defended scientific explanations supported by testable evidence."
+    },
+    "right": {
+      "name": "Ken Ham",
+      "position": "Defended young-earth creationism and his scriptural framework."
+    },
+    "significance": "The encounter made differences over evidence and falsifiability visible to a large public audience.",
+    "slug": "nye-v-ham",
+    "date": 2014,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "NPR - the debate and aftermath",
+        "url": "https://www.npr.org/sections/thetwo-way/2014/02/04/271648691/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Nye v Ham"
+  },
+  {
+    "rank": 70,
+    "title": "Cuvier v Geoffroy",
+    "year": "1830",
+    "category": "Science & reason",
+    "score": 68,
+    "summary": "The 1830 Paris controversy concerned how animal structures should be compared and explained.",
+    "left": {
+      "name": "Georges Cuvier",
+      "position": "Emphasized distinct organizational plans and the functional relations within organisms."
+    },
+    "right": {
+      "name": "Etienne Geoffroy Saint-Hilaire",
+      "position": "Defended a broader unity of anatomical composition."
+    },
+    "significance": "The dispute belongs to the history of comparative anatomy. It should not be reduced to a modern creationism-versus-evolution debate.",
+    "slug": "cuvier-v-geoffroy",
+    "date": 1830,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "NIH/PMC - the scholarly account",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1036159/"
+      }
+    ],
+    "form": "Scientific controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Cuvier v Geoffroy"
+  },
+  {
+    "rank": 71,
+    "title": "Huxley v Owen",
+    "year": "1861",
+    "category": "Science & reason",
+    "score": 68,
+    "summary": "The hippocampus minor controversy unfolded through scientific meetings and printed arguments in the early 1860s.",
+    "left": {
+      "name": "Thomas Henry Huxley",
+      "position": "Challenged Owen's claims about structures supposedly unique to the human brain."
+    },
+    "right": {
+      "name": "Richard Owen",
+      "position": "Defended anatomical distinctions he regarded as separating humans from apes."
+    },
+    "significance": "The dispute linked detailed anatomical evidence to larger questions about humans' relationship to other animals.",
+    "slug": "huxley-v-owen",
+    "date": 1861,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "The scholarly record (DOI)",
+        "url": "https://doi.org/10.1002/hipo.450030403"
+      }
+    ],
+    "form": "Scientific controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Huxley v Owen"
+  },
+  {
+    "rank": 72,
+    "title": "Obama v Romney, Denver",
+    "year": "2012",
+    "category": "The campaign trail",
+    "score": 68,
+    "summary": "The first 2012 presidential debate in Denver focused on domestic policy.",
+    "left": {
+      "name": "Barack Obama",
+      "position": "Defended his domestic-policy record and plans for a second term."
+    },
+    "right": {
+      "name": "Mitt Romney",
+      "position": "Challenged Obama's economic policies and proposed alternatives."
+    },
+    "significance": "The encounter became a case study in political preparation and expectations; subsequent debates and campaign events remained important.",
+    "slug": "obama-v-romney-denver",
+    "date": 2012,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-3-2012-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Obama v Romney, Denver"
+  },
+  {
+    "rank": 73,
+    "title": "Hitchens v Craig",
+    "year": "2009",
+    "category": "Faith & philosophy",
+    "score": 67,
+    "summary": "Hitchens and Craig debated God's existence at Biola University in 2009.",
+    "left": {
+      "name": "Christopher Hitchens",
+      "position": "Challenged religious belief and arguments for God's existence."
+    },
+    "right": {
+      "name": "William Lane Craig",
+      "position": "Presented philosophical arguments for theism and answered Hitchens's objections."
+    },
+    "significance": "The event is a widely discussed example of different argumentative styles within public debates about religion.",
+    "slug": "hitchens-v-craig",
+    "date": 2009,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Biola University - the debate record",
+        "url": "https://www.biola.edu/blogs/biola-news/2009/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Hitchens v Craig"
+  },
+  {
+    "rank": 74,
+    "title": "Sanger v Russell",
+    "year": "1920",
+    "category": "The public stage",
+    "score": 67,
+    "summary": "Sanger and Russell debated birth-control information in New York in 1920.",
+    "left": {
+      "name": "Margaret Sanger",
+      "position": "Defended spreading birth-control knowledge as beneficial to individuals and society."
+    },
+    "right": {
+      "name": "Winter Russell",
+      "position": "Argued that spreading the knowledge was injurious to humanity's welfare."
+    },
+    "significance": "The published text records a major argument over reproductive knowledge, reform and social authority.",
+    "slug": "sanger-v-russell",
+    "date": 1920,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Full published text - Project Gutenberg",
+        "url": "https://www.gutenberg.org/cache/epub/61637/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Sanger v Russell"
+  },
+  {
+    "rank": 75,
+    "title": "Salmond v Darling",
+    "year": "2014",
+    "category": "The campaign trail",
+    "score": 67,
+    "summary": "Salmond and Darling debated Scotland's constitutional future before the 2014 referendum.",
+    "left": {
+      "name": "Alex Salmond",
+      "position": "Defended Scottish independence and his government's proposals."
+    },
+    "right": {
+      "name": "Alistair Darling",
+      "position": "Defended remaining in the United Kingdom and challenged independence's practical arrangements."
+    },
+    "significance": "Questions about currency and economic arrangements connected broad constitutional goals to practical choices.",
+    "slug": "salmond-v-darling",
+    "date": 2014,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "BBC - the debate record",
+        "url": "https://www.bbc.co.uk/news/uk-scotland-28649354"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Salmond v Darling"
+  },
+  {
+    "rank": 76,
+    "title": "The Iran debates",
+    "year": "2009",
+    "category": "The campaign trail",
+    "score": 66,
+    "summary": "Iran's 2009 presidential campaign included televised head-to-head candidate debates.",
+    "left": {
+      "name": "Mir-Hossein Mousavi",
+      "position": "Challenged Ahmadinejad's record and style of government."
+    },
+    "right": {
+      "name": "Mahmoud Ahmadinejad",
+      "position": "Defended his presidency and attacked his opponents' political records."
+    },
+    "significance": "The broadcasts exposed political conflict to a mass audience before the disputed election and subsequent protests.",
+    "slug": "the-iran-debates",
+    "date": 2009,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Critical Threats - translated transcript",
+        "url": "https://www.criticalthreats.org/analysis/mousavi-ahmadinejad-june-3-presidential-debate-transcript"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Iran debates"
+  },
+  {
+    "rank": 77,
+    "title": "The EU 'Great Debate'",
+    "year": "2016",
+    "category": "The campaign trail",
+    "score": 66,
+    "summary": "A BBC debate at Wembley Arena took place shortly before the 2016 EU referendum.",
+    "left": {
+      "name": "Remain representatives",
+      "position": "Argued that Britain should stay in the European Union."
+    },
+    "right": {
+      "name": "Leave representatives",
+      "position": "Argued that Britain should leave and reclaim national control."
+    },
+    "significance": "The event concentrated arguments about sovereignty, immigration and economic risk in the closing days of the campaign.",
+    "slug": "the-eu-great-debate",
+    "date": 2016,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "BBC - The Great Debate",
+        "url": "https://www.bbc.co.uk/programmes/b07hk5h6"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "EU 'Great Debate'"
+  },
+  {
+    "rank": 78,
+    "title": "The Barcelona Disputation",
+    "year": "1263",
+    "category": "Faith & philosophy",
+    "score": 65,
+    "summary": "The 1263 Barcelona disputation took place before King James I of Aragon.",
+    "left": {
+      "name": "Moses ben Nachman (Nachmanides)",
+      "position": "Defended Jewish interpretations against Christian missionary claims."
+    },
+    "right": {
+      "name": "Pablo Christiani",
+      "position": "Argued that Jewish texts supported Christian claims about the Messiah."
+    },
+    "significance": "Surviving Jewish and Christian accounts differ. The event belongs to a coercive religious and political setting, not an equal modern debating forum.",
+    "slug": "the-barcelona-disputation",
+    "date": 1263,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "Ramban's own account - Center for Online Judaic Studies",
+        "url": "https://cojs.org/the-barcelona-synagogue-1263-rabbi-moses-ben-nahman/"
+      }
+    ],
+    "form": "Coerced religious disputation",
+    "recordNote": "The encounter took place under unequal religious and political authority. Surviving Jewish and Christian accounts must be read as situated, sometimes conflicting records.",
+    "shortTitle": "Barcelona Disputation"
+  },
+  {
+    "rank": 79,
+    "title": "Mehdi Hasan, Oxford Union",
+    "year": "2013",
+    "category": "Faith & philosophy",
+    "score": 65,
+    "summary": "Hasan spoke at an Oxford Union debate about Islam and peace in 2013.",
+    "left": {
+      "name": "Mehdi Hasan & motion supporters",
+      "position": "Defended the motion that Islam is a religion of peace."
+    },
+    "right": {
+      "name": "Opponents of the motion",
+      "position": "Challenged the motion through arguments about doctrine and political practice."
+    },
+    "significance": "The speech became a prominent public defense of a religion often discussed through conflict and security narratives.",
+    "slug": "mehdi-hasan-oxford-union",
+    "date": 2013,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Oxford Union - official video",
+        "url": "https://www.youtube.com/watch?v=Jy9tNyp03M0"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Mehdi Hasan, Oxford Union"
+  },
+  {
+    "rank": 80,
+    "title": "The Paris Disputation",
+    "year": "1240",
+    "category": "Faith & philosophy",
+    "score": 64,
+    "summary": "The Paris disputation of 1240 subjected Jewish texts to a hostile judicial-religious process.",
+    "left": {
+      "name": "Rabbi Yechiel & Jewish defenders",
+      "position": "Defended the Talmud against charges brought before the French court."
+    },
+    "right": {
+      "name": "Nicholas Donin & Christian authorities",
+      "position": "Presented accusations against the Talmud and sought condemnation."
+    },
+    "significance": "The controversy preceded the burning of Talmud manuscripts. The surviving records reflect unequal power and different traditions of reporting.",
+    "slug": "the-paris-disputation",
+    "date": 1240,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "PIMS monograph - The Trial of the Talmud (PDF)",
+        "url": "https://www.pims.ca/wp-content/uploads/2019/11/mst53.pdf"
+      }
+    ],
+    "form": "Coerced religious disputation",
+    "recordNote": "The encounter took place under unequal religious and political authority. Surviving Jewish and Christian accounts must be read as situated, sometimes conflicting records.",
+    "shortTitle": "Paris Disputation"
+  },
+  {
+    "rank": 81,
+    "title": "Collor v Lula",
+    "year": "1989",
+    "category": "The campaign trail",
+    "score": 64,
+    "summary": "Collor and Lula met in televised debates during Brazil's 1989 presidential runoff.",
+    "left": {
+      "name": "Fernando Collor de Mello",
+      "position": "Defended his candidacy and attacked Lula's program."
+    },
+    "right": {
+      "name": "Luiz Inacio Lula da Silva",
+      "position": "Defended his program and challenged Collor's political claims."
+    },
+    "significance": "The final debate and its later television editing became part of a lasting controversy over media influence in elections.",
+    "slug": "collor-v-lula",
+    "date": 1989,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Memoria Globo - Debate Collor x Lula",
+        "url": "https://memoriaglobo.globo.com/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Collor v Lula"
+  },
+  {
+    "rank": 82,
+    "title": "Palin v Biden",
+    "year": "2008",
+    "category": "The campaign trail",
+    "score": 64,
+    "summary": "Palin and Biden met in the 2008 vice-presidential debate.",
+    "left": {
+      "name": "Sarah Palin",
+      "position": "Defended the Republican ticket and redirected questions toward her preferred themes."
+    },
+    "right": {
+      "name": "Joe Biden",
+      "position": "Defended the Democratic ticket and challenged the Republican record."
+    },
+    "significance": "The broadcast is a prominent case of managing expectations, question avoidance and contrasting campaign styles.",
+    "slug": "palin-v-biden",
+    "date": 2008,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "CNN - full transcript",
+        "url": "https://www.cnn.com/2008/POLITICS/10/02/debate.transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Palin v Biden"
+  },
+  {
+    "rank": 83,
+    "title": "Dole v Mondale",
+    "year": "1976",
+    "category": "The campaign trail",
+    "score": 64,
+    "summary": "Dole and Mondale met in the first televised US vice-presidential debate in 1976.",
+    "left": {
+      "name": "Bob Dole",
+      "position": "Defended the Republican ticket and attacked the Democrats' historical record."
+    },
+    "right": {
+      "name": "Walter Mondale",
+      "position": "Defended the Democratic ticket and challenged Dole's accusations."
+    },
+    "significance": "The exchange showed that running mates could create their own lasting campaign narratives.",
+    "slug": "dole-v-mondale",
+    "date": 1976,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "UCSB Presidency Project - full transcript",
+        "url": "https://www.presidency.ucsb.edu/documents/vice-presidential-debate-houston-texas"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Dole v Mondale"
+  },
+  {
+    "rank": 84,
+    "title": "Mondale v Hart",
+    "year": "1984",
+    "category": "The campaign trail",
+    "score": 64,
+    "summary": "A 1984 Democratic primary debate included Mondale's Where's the beef challenge to Hart.",
+    "left": {
+      "name": "Walter Mondale",
+      "position": "Questioned whether Hart's new ideas contained enough substance."
+    },
+    "right": {
+      "name": "Gary Hart",
+      "position": "Defended his campaign as a break with established Democratic approaches."
+    },
+    "significance": "The borrowed advertising phrase became a lasting example of compressing a policy critique into a memorable line.",
+    "slug": "mondale-v-hart",
+    "date": 1984,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "C-SPAN - full debate video",
+        "url": "https://www.c-span.org/program/american-history-tv/1984-democratic-presidential-candidates-debate/172038"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Mondale v Hart"
+  },
+  {
+    "rank": 85,
+    "title": "Town Bloody Hall",
+    "year": "1971",
+    "category": "The public stage",
+    "score": 63,
+    "summary": "The 1971 New York panel filmed as Town Bloody Hall featured Mailer and leading feminist voices.",
+    "left": {
+      "name": "Feminist panelists",
+      "position": "Challenged Mailer's account of feminism and the position of women."
+    },
+    "right": {
+      "name": "Norman Mailer",
+      "position": "Defended his arguments while moderating a confrontational discussion."
+    },
+    "significance": "The film is a significant record of second-wave feminist argument, personality and public performance.",
+    "slug": "town-bloody-hall",
+    "date": 1971,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Criterion - the film of the night",
+        "url": "https://www.criterion.com/films/30213-town-bloody-hall"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Town Bloody Hall"
+  },
+  {
+    "rank": 86,
+    "title": "Newton v Leibniz",
+    "year": "c. 1710s",
+    "category": "Science & reason",
+    "score": 63,
+    "summary": "A calculus priority dispute unfolded through correspondence, publications and a Royal Society investigation.",
+    "left": {
+      "name": "Isaac Newton & his supporters",
+      "position": "Asserted Newton's priority in the development of calculus."
+    },
+    "right": {
+      "name": "Gottfried Wilhelm Leibniz & his supporters",
+      "position": "Defended Leibniz's independent work and priority claims."
+    },
+    "significance": "The dispute illustrates how scholarly credit and institutional authority can shape the reception of scientific work.",
+    "slug": "newton-v-leibniz",
+    "date": 1710,
+    "era": "enlightenment",
+    "sources": [
+      {
+        "label": "Oxford Newton Project - the Commercium Epistolicum record",
+        "url": "https://www.newtonproject.ox.ac.uk/"
+      }
+    ],
+    "form": "Scientific controversy",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Newton v Leibniz"
+  },
+  {
+    "rank": 87,
+    "title": "The Hindu Code Bill",
+    "year": "1951",
+    "category": "Parliament & Congress",
+    "score": 63,
+    "summary": "Debates over the Hindu Code Bill contributed to Ambedkar's resignation from the cabinet in 1951.",
+    "left": {
+      "name": "B. R. Ambedkar & reform supporters",
+      "position": "Sought changes to Hindu personal law concerning marriage, inheritance and women's rights."
+    },
+    "right": {
+      "name": "Opponents and delaying legislators",
+      "position": "Resisted or sought limits on the proposed reforms."
+    },
+    "significance": "The controversy exposed conflict over gender, religion and legal reform. Later legislation adopted reforms in separate acts.",
+    "slug": "the-hindu-code-bill",
+    "date": 1951,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Ambedkar's statement - ambedkar.org",
+        "url": "https://www.ambedkar.org/ambcd/64B4.On%20the%20Hindu%20Code%20Bill.htm"
+      }
+    ],
+    "form": "Parliamentary argument",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Hindu Code Bill"
+  },
+  {
+    "rank": 88,
+    "title": "Nashua, 'the microphone'",
+    "year": "1980",
+    "category": "The campaign trail",
+    "score": 63,
+    "summary": "The 1980 Nashua Republican primary debate produced a confrontation over who could participate and speak.",
+    "left": {
+      "name": "Ronald Reagan",
+      "position": "Protested attempts to restrict the participation and microphones at the debate he had funded."
+    },
+    "right": {
+      "name": "The moderator & disputed format",
+      "position": "Tried to enforce the event's arrangements amid conflict over additional candidates."
+    },
+    "significance": "The encounter is a lasting campaign moment about control of the stage, though its place in the primary must be understood alongside the wider campaign.",
+    "slug": "nashua-the-microphone",
+    "date": 1980,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "CBS News - the moment, on video",
+        "url": "https://www.cbsnews.com/video/ronald-reagan-at-1980-gop-debate-i-am-paying-for-this-microphone/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Nashua, 'the microphone'"
+  },
+  {
+    "rank": 89,
+    "title": "Ayer v Copleston",
+    "year": "1949",
+    "category": "Faith & philosophy",
+    "score": 62,
+    "summary": "Ayer and Copleston debated logical positivism in a BBC discussion published in 1949.",
+    "left": {
+      "name": "A. J. Ayer",
+      "position": "Defended logical positivism and limits on meaningful metaphysical claims."
+    },
+    "right": {
+      "name": "Frederick Copleston",
+      "position": "Challenged those limits and defended the place of metaphysical reasoning."
+    },
+    "significance": "The exchange introduces a central philosophical conflict over meaning, verification and metaphysics.",
+    "slug": "ayer-v-copleston",
+    "date": 1949,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Logical Positivism: A Debate - published text scan (third-party mirror)",
+        "url": "https://pdfslide.us/documents/logical-positivism-a-debate-between-ayer-and-copleston.html"
+      },
+      {
+        "label": "Encyclopedia.com - A. J. Ayer, bibliography",
+        "url": "https://www.encyclopedia.com/history/historians-and-chronicles/historians-miscellaneous-biographies/aj-ayer"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Ayer v Copleston"
+  },
+  {
+    "rank": 90,
+    "title": "Harris v Craig",
+    "year": "2011",
+    "category": "Faith & philosophy",
+    "score": 62,
+    "summary": "Harris and Craig debated the foundations of morality at Notre Dame in 2011.",
+    "left": {
+      "name": "Sam Harris",
+      "position": "Defended a naturalistic account of morality tied to conscious well-being."
+    },
+    "right": {
+      "name": "William Lane Craig",
+      "position": "Argued that objective moral values and duties require a theistic foundation."
+    },
+    "significance": "The encounter distinguishes disagreement about moral conclusions from disagreement about what could ground them.",
+    "slug": "harris-v-craig",
+    "date": 2011,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Notre Dame Magazine - the great God debate",
+        "url": "https://magazine.nd.edu/stories/great-god-its-the-great-god-debate/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Harris v Craig"
+  },
+  {
+    "rank": 91,
+    "title": "Zizek v Peterson",
+    "year": "2019",
+    "category": "The public stage",
+    "score": 62,
+    "summary": "Zizek and Peterson debated happiness, capitalism and Marxism in Toronto in 2019.",
+    "left": {
+      "name": "Slavoj Zizek",
+      "position": "Questioned simple accounts of happiness and capitalism while criticizing ideological assumptions."
+    },
+    "right": {
+      "name": "Jordan Peterson",
+      "position": "Criticized Marxism and defended aspects of capitalist social organization."
+    },
+    "significance": "The event illustrates the rise of large-scale, internet-driven public philosophy and the limits of simplified ideological labels.",
+    "slug": "zizek-v-peterson",
+    "date": 2019,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "The Guardian - the debate",
+        "url": "https://www.theguardian.com/world/2019/apr/20/jordan-peterson-slavoj-zizek-happiness-capitalism-marxism"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Zizek v Peterson"
+  },
+  {
+    "rank": 92,
+    "title": "Beecher-Tilton",
+    "year": "1875",
+    "category": "The courtroom",
+    "score": 62,
+    "summary": "The 1875 Tilton-Beecher civil trial ended with a jury unable to agree.",
+    "left": {
+      "name": "Theodore Tilton",
+      "position": "Alleged misconduct by Beecher in a civil action."
+    },
+    "right": {
+      "name": "Henry Ward Beecher",
+      "position": "Denied the accusations and contested the plaintiff's evidence."
+    },
+    "significance": "The proceedings became a major media event linking religion, reputation, testimony and public spectacle.",
+    "slug": "beecher-tilton",
+    "date": 1875,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "NY Courts Historical Society - Tilton v Beecher",
+        "url": "https://history.nycourts.gov/case/tilton-beecher/"
+      }
+    ],
+    "form": "Courtroom argument",
+    "recordNote": "Courtroom proceedings are not an equal public debate. The source records legal arguments, testimony or a documented account of the case.",
+    "shortTitle": "Beecher-Tilton"
+  },
+  {
+    "rank": 93,
+    "title": "Obama v Clinton, NH",
+    "year": "2008",
+    "category": "The campaign trail",
+    "score": 62,
+    "summary": "A New Hampshire Democratic primary debate in January 2008 included a much-replayed exchange about likability.",
+    "left": {
+      "name": "Hillary Clinton",
+      "position": "Defended her qualifications and responded to questions about likability."
+    },
+    "right": {
+      "name": "Barack Obama",
+      "position": "Defended his candidacy and contrasted his appeal with Clinton's."
+    },
+    "significance": "The moment illustrates how a brief remark can become a campaign narrative without establishing its independent effect on the vote.",
+    "slug": "obama-v-clinton-nh",
+    "date": 2008,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "ABC News - the exchange",
+        "url": "https://abcnews.com/video/34428886/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Obama v Clinton, NH"
+  },
+  {
+    "rank": 94,
+    "title": "Vance v Walz",
+    "year": "2024",
+    "category": "The campaign trail",
+    "score": 62,
+    "summary": "Vance and Walz met in the 2024 vice-presidential debate.",
+    "left": {
+      "name": "JD Vance",
+      "position": "Defended the Republican ticket and challenged the administration's record."
+    },
+    "right": {
+      "name": "Tim Walz",
+      "position": "Defended the Democratic ticket and challenged Trump's and Vance's positions."
+    },
+    "significance": "The exchange included both policy disagreement and a comparatively restrained tone, as well as a substantive dispute over the 2020 election.",
+    "slug": "vance-v-walz",
+    "date": 2024,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "CBS News - full transcript",
+        "url": "https://www.cbsnews.com/news/full-vp-debate-transcript-walz-vance-2024/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Vance v Walz"
+  },
+  {
+    "rank": 95,
+    "title": "IQ2, 'Islam is a religion of peace'",
+    "year": "2010",
+    "category": "Faith & philosophy",
+    "score": 62,
+    "summary": "An Intelligence Squared debate in 2010 examined Islam and peace.",
+    "left": {
+      "name": "Maajid Nawaz & Zeba Khan",
+      "position": "Supported the motion that Islam is a religion of peace."
+    },
+    "right": {
+      "name": "Ayaan Hirsi Ali & Douglas Murray",
+      "position": "Opposed the motion through their reading of religious texts and political experience."
+    },
+    "significance": "The encounter shows how definitions of a religion and of peace can determine the structure of the argument.",
+    "slug": "iq2-islam-is-a-religion-of-peace",
+    "date": 2010,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Full transcript (docslib)",
+        "url": "https://docslib.org/doc/4309253/transcript-islam-is-a-religion-of-peace"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "IQ2, 'Islam is a religion of peace'"
+  },
+  {
+    "rank": 96,
+    "title": "Obama v McCain III",
+    "year": "2008",
+    "category": "The campaign trail",
+    "score": 62,
+    "summary": "The final 2008 presidential debate repeatedly invoked the voter known as Joe the Plumber.",
+    "left": {
+      "name": "Barack Obama",
+      "position": "Defended his economic and tax proposals and challenged McCain's record."
+    },
+    "right": {
+      "name": "John McCain",
+      "position": "Challenged Obama's policies and defended his own program."
+    },
+    "significance": "The exchange is a case of using an individual story to frame wider arguments about taxation and opportunity.",
+    "slug": "obama-v-mccain-iii",
+    "date": 2008,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/october-15-2008-debate-transcript/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Obama v McCain III"
+  },
+  {
+    "rank": 97,
+    "title": "Johnson v Corbyn",
+    "year": "2019",
+    "category": "The campaign trail",
+    "score": 61,
+    "summary": "Johnson and Corbyn met in an ITV leaders' debate during the 2019 election.",
+    "left": {
+      "name": "Boris Johnson",
+      "position": "Emphasized delivering Brexit and defended Conservative proposals."
+    },
+    "right": {
+      "name": "Jeremy Corbyn",
+      "position": "Challenged the government's record and defended Labour's program."
+    },
+    "significance": "The encounter preserves competing campaign approaches to Brexit, public services and political credibility.",
+    "slug": "johnson-v-corbyn",
+    "date": 2019,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "ITV News - the debate",
+        "url": "https://www.itv.com/news/2019-11-19"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Johnson v Corbyn"
+  },
+  {
+    "rank": 98,
+    "title": "Stevenson v Kefauver",
+    "year": "1956",
+    "category": "The campaign trail",
+    "score": 61,
+    "summary": "Stevenson and Kefauver participated in a televised primary-candidate debate in 1956.",
+    "left": {
+      "name": "Adlai Stevenson",
+      "position": "Defended his approach to major domestic and international issues."
+    },
+    "right": {
+      "name": "Estes Kefauver",
+      "position": "Presented his own positions while competing for the Democratic nomination."
+    },
+    "significance": "The broadcast was an early experiment in televised presidential campaigning, preceding the 1960 general-election debates.",
+    "slug": "stevenson-v-kefauver",
+    "date": 1956,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "AP - the retrospective record",
+        "url": "https://apnews.com/general-news-bd9f45d4370749c8ac80773e2cc93a21"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Stevenson v Kefauver"
+  },
+  {
+    "rank": 99,
+    "title": "Mexico's first debate",
+    "year": "1994",
+    "category": "The campaign trail",
+    "score": 61,
+    "summary": "Mexico's first televised presidential debate took place in 1994 among three major candidates.",
+    "left": {
+      "name": "Diego Fernandez de Cevallos",
+      "position": "Presented the PAN's case against the governing party and its opponents."
+    },
+    "right": {
+      "name": "Ernesto Zedillo & Cuauhtemoc Cardenas",
+      "position": "Presented the PRI and PRD programs and defended their candidacies."
+    },
+    "significance": "The event expanded public electoral competition on television. Fernandez de Cevallos was the PAN candidate, not Cienfuegos.",
+    "slug": "mexico-s-first-debate",
+    "date": 1994,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "INE official documentary archive",
+        "url": "https://repositoriodocumental.ine.mx/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Mexico's first debate"
+  },
+  {
+    "rank": 100,
+    "title": "Khrushchev's shoe",
+    "year": "1960",
+    "category": "The public stage",
+    "score": 60,
+    "summary": "A 1960 UN General Assembly confrontation became associated with the disputed shoe-banging story.",
+    "left": {
+      "name": "Nikita Khrushchev",
+      "position": "Rejected criticism of Soviet control over Eastern Europe and defended Soviet policy."
+    },
+    "right": {
+      "name": "Lorenzo Sumulong",
+      "position": "Challenged Soviet domination of Eastern European peoples."
+    },
+    "significance": "The episode is a lesson in separating a documented political exchange from a famous gesture whose details remain uncertain.",
+    "slug": "khrushchev-s-shoe",
+    "date": 1960,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "UN News - the archive's own account",
+        "url": "https://news.un.org/en/story/2024/01/1145407"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "The political exchange is documented. The shoe-banging story is disputed; this entry does not treat the gesture as an established event.",
+    "shortTitle": "Khrushchev's shoe"
+  },
+  {
+    "rank": 101,
+    "title": "Schroder v Stoiber",
+    "year": "2002",
+    "category": "The campaign trail",
+    "score": 60,
+    "summary": "Germany's 2002 election included televised chancellor debates between Schroder and Stoiber.",
+    "left": {
+      "name": "Gerhard Schroder",
+      "position": "Defended his government and plans for another term."
+    },
+    "right": {
+      "name": "Edmund Stoiber",
+      "position": "Challenged the government's record and offered an alternative program."
+    },
+    "significance": "The broadcasts established a prominent stage for head-to-head national campaigning in Germany.",
+    "slug": "schroder-v-stoiber",
+    "date": 2002,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "CNN - the first German duel",
+        "url": "https://www.cnn.com/2002/WORLD/europe/08/25/germany.debate/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Schroder v Stoiber"
+  },
+  {
+    "rank": 102,
+    "title": "Bannon v Frum",
+    "year": "2018",
+    "category": "The public stage",
+    "score": 60,
+    "summary": "A 2018 Munk debate examined the future of populism.",
+    "left": {
+      "name": "Steve Bannon",
+      "position": "Defended populism as a political force and challenged establishment politics."
+    },
+    "right": {
+      "name": "David Frum",
+      "position": "Argued against the populist project Bannon advanced."
+    },
+    "significance": "The event is also a reminder to read corrected audience-vote reporting rather than repeat an initial winner announcement.",
+    "slug": "bannon-v-frum",
+    "date": 2018,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Munk Debates - The Rise of Populism (incl. the vote correction)",
+        "url": "https://www.munkdebates.com/debates/the-rise-of-populism/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Bannon v Frum"
+  },
+  {
+    "rank": 103,
+    "title": "Harris v Pence",
+    "year": "2020",
+    "category": "The campaign trail",
+    "score": 60,
+    "summary": "Harris and Pence met in the 2020 vice-presidential debate.",
+    "left": {
+      "name": "Kamala Harris",
+      "position": "Defended the Democratic ticket and challenged the Trump administration's record."
+    },
+    "right": {
+      "name": "Mike Pence",
+      "position": "Defended the administration and attacked Democratic proposals."
+    },
+    "significance": "The encounter combined substantive disagreements with disputes over speaking time and political authority.",
+    "slug": "harris-v-pence",
+    "date": 2020,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "Commission on Presidential Debates - transcript",
+        "url": "https://www.debates.org/voter-education/debate-transcripts/vice-presidential-debate-at-the-university-of-utah-in-salt-lake-city-utah/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Harris v Pence"
+  },
+  {
+    "rank": 104,
+    "title": "Willkie v Jackson",
+    "year": "1938",
+    "category": "The public stage",
+    "score": 60,
+    "summary": "Willkie and Jackson took part in a 1938 America's Town Meeting radio debate.",
+    "left": {
+      "name": "Wendell Willkie",
+      "position": "Defended business and criticized aspects of New Deal policy."
+    },
+    "right": {
+      "name": "Robert H. Jackson",
+      "position": "Defended the government's economic policies and its role in regulating business."
+    },
+    "significance": "The encounter belongs to the public conflict over business, government and the New Deal and helped raise Willkie's political visibility.",
+    "slug": "willkie-v-jackson",
+    "date": 1938,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "Robert H. Jackson Center - the broadcast record",
+        "url": "https://roberthjackson.org/artifact/robert-h-jackson-and-wendell-l-willkie-new-york-1938/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Willkie v Jackson"
+  },
+  {
+    "rank": 105,
+    "title": "The Tortosa Disputation",
+    "year": "1413-14",
+    "category": "Faith & philosophy",
+    "score": 59,
+    "summary": "The Tortosa disputation unfolded in 1413-14 under the authority of Benedict XIII.",
+    "left": {
+      "name": "Jewish representatives",
+      "position": "Defended Jewish interpretations while facing official religious pressure."
+    },
+    "right": {
+      "name": "Geronimo de Santa Fe & Christian authorities",
+      "position": "Argued that Jewish texts supported Christian messianic claims."
+    },
+    "significance": "The proceedings show the unequal conditions of medieval religious disputation and their consequences for Jewish communities.",
+    "slug": "the-tortosa-disputation",
+    "date": 1413,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "Encyclopaedia Britannica - the Disputation of Tortosa",
+        "url": "https://www.britannica.com/topic/Disputation-of-Tortosa"
+      }
+    ],
+    "form": "Coerced religious disputation",
+    "recordNote": "The encounter took place under unequal religious and political authority. Surviving Jewish and Christian accounts must be read as situated, sometimes conflicting records.",
+    "shortTitle": "Tortosa Disputation"
+  },
+  {
+    "rank": 106,
+    "title": "Hitchens v Sharpton",
+    "year": "2007",
+    "category": "Faith & philosophy",
+    "score": 59,
+    "summary": "Hitchens and Sharpton discussed religion at the New York Public Library in 2007.",
+    "left": {
+      "name": "Christopher Hitchens",
+      "position": "Challenged religious belief and its public consequences."
+    },
+    "right": {
+      "name": "Al Sharpton",
+      "position": "Defended religious faith and challenged Hitchens's account."
+    },
+    "significance": "The surviving transcript records an encounter between polemical atheism and a public religious voice.",
+    "slug": "hitchens-v-sharpton",
+    "date": 2007,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "NYPL - official transcript (PDF)",
+        "url": "https://www.nypl.org/sites/default/files/events/hitchens5707.pdf"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Hitchens v Sharpton"
+  },
+  {
+    "rank": 107,
+    "title": "Clinton v Sanders, Brooklyn",
+    "year": "2016",
+    "category": "The campaign trail",
+    "score": 58,
+    "summary": "Clinton and Sanders met in a Democratic primary debate in Brooklyn in April 2016.",
+    "left": {
+      "name": "Hillary Clinton",
+      "position": "Defended her experience, record and policy proposals."
+    },
+    "right": {
+      "name": "Bernie Sanders",
+      "position": "Challenged Clinton's judgment and defended his own reform agenda."
+    },
+    "significance": "The exchange exposed divisions within the Democratic Party over finance, foreign policy and political change.",
+    "slug": "clinton-v-sanders-brooklyn",
+    "date": 2016,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "CNN - full transcript",
+        "url": "https://www.cnn.com/2016/04/14/politics/transcript-democratic-debate-hillary-clinton-bernie-sanders"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Clinton v Sanders, Brooklyn"
+  },
+  {
+    "rank": 108,
+    "title": "Perry, 'oops'",
+    "year": "2011",
+    "category": "The campaign trail",
+    "score": 58,
+    "summary": "Perry struggled to name a third agency during a 2011 Republican primary debate.",
+    "left": {
+      "name": "Rick Perry",
+      "position": "Proposed eliminating federal agencies as part of a smaller-government agenda."
+    },
+    "right": {
+      "name": "The debate stage & questioning",
+      "position": "Required him to identify and defend the agencies he proposed removing."
+    },
+    "significance": "The episode became a prominent example of recall failure on live television. It did not occur while he was still leading the race in November.",
+    "slug": "perry-oops",
+    "date": 2011,
+    "era": "contemporary",
+    "sources": [
+      {
+        "label": "CNBC - the moment, on the record",
+        "url": "https://www.cnbc.com/2011/11/09/gov-rick-perrys-memory-stumblefatal.html"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Perry, 'oops'"
+  },
+  {
+    "rank": 109,
+    "title": "The Ibadat Khana",
+    "year": "1575-82",
+    "category": "Faith & philosophy",
+    "score": 57,
+    "summary": "Akbar's Ibadat Khana hosted religious discussions at Fatehpur Sikri beginning in 1575.",
+    "left": {
+      "name": "Participants before Akbar",
+      "position": "Presented Islamic and later other religious and philosophical arguments."
+    },
+    "right": {
+      "name": "Competing religious representatives",
+      "position": "Challenged each other's doctrines and claims in the emperor's presence."
+    },
+    "significance": "The experiment is significant to Mughal religious policy and interfaith exchange. It should not be simplified into the creation of an ordinary new mass religion.",
+    "slug": "the-ibadat-khana",
+    "date": 1575,
+    "era": "medieval",
+    "sources": [
+      {
+        "label": "The scholarly record (Sage)",
+        "url": "https://journals.sagepub.com/doi/10.1177/025764300902400203"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Ibadat Khana"
+  },
+  {
+    "rank": 110,
+    "title": "Vidal v Mailer",
+    "year": "1971",
+    "category": "The public stage",
+    "score": 54,
+    "summary": "A 1971 Dick Cavett appearance brought Vidal and Mailer's conflict onto television.",
+    "left": {
+      "name": "Gore Vidal",
+      "position": "Challenged Mailer amid a long-running literary feud."
+    },
+    "right": {
+      "name": "Norman Mailer",
+      "position": "Confronted Vidal and disputed his portrayal of Mailer's work."
+    },
+    "significance": "The encounter is included as a documented media confrontation, not a model of a structured debate resolving an intellectual question.",
+    "slug": "vidal-v-mailer",
+    "date": 1971,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Slate - the retrospective",
+        "url": "https://slate.com/culture/2012/08/"
+      }
+    ],
+    "form": "Televised confrontation",
+    "recordNote": "This entry is an editorial summary. Consult the linked source for the exchange and its historical context.",
+    "shortTitle": "Vidal v Mailer"
+  },
+  {
+    "rank": 111,
+    "title": "Chesterton v Darrow",
+    "year": "1931",
+    "category": "Faith & philosophy",
+    "score": 54,
+    "summary": "Chesterton and Darrow debated religion in New York in 1931.",
+    "left": {
+      "name": "G. K. Chesterton",
+      "position": "Defended religious belief against skeptical criticism."
+    },
+    "right": {
+      "name": "Clarence Darrow",
+      "position": "Presented an agnostic challenge to religion."
+    },
+    "significance": "The event is remembered in accounts of public religious argument, but its surviving record is thinner than those of transcript-based entries.",
+    "slug": "chesterton-v-darrow",
+    "date": 1931,
+    "era": "modern",
+    "sources": [
+      {
+        "label": "The Chesterton Society - the documented account",
+        "url": "https://www.chesterton.org/clarence-darrow-debate/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
+    "shortTitle": "Chesterton v Darrow"
+  },
+  {
+    "rank": 112,
+    "title": "The Third Buddhist Council",
+    "year": "c. 250 BC",
+    "category": "Faith & philosophy",
+    "score": 53,
+    "summary": "Theravada chronicles describe a Third Buddhist Council under Ashoka in the third century BCE.",
+    "left": {
+      "name": "Moggaliputta Tissa in Theravada tradition",
+      "position": "Examined doctrine and distinguished views regarded as orthodox."
+    },
+    "right": {
+      "name": "Disputed teachings in the chronicle",
+      "position": "Were classified as errors within the tradition's narrative."
+    },
+    "significance": "The account is important to Buddhist historical memory. Later chronicles are not contemporary stenographic evidence, and details are contested across traditions.",
+    "slug": "the-third-buddhist-council",
+    "date": -250,
+    "era": "antiquity",
+    "sources": [
+      {
+        "label": "The Mahavamsa, chapter V",
+        "url": "https://vipassana.com/resources/mahavamsa/mhv05.html"
+      }
+    ],
+    "form": "Later chronicle account",
+    "recordNote": "The council is described in later Theravada chronicles. These are evidence for a tradition of historical memory, not a contemporary transcript; chronology and details remain debated.",
+    "shortTitle": "Third Buddhist Council"
+  },
+  {
+    "rank": 113,
+    "title": "Wittgenstein's poker",
+    "year": "1946",
+    "category": "Faith & philosophy",
+    "score": 49,
+    "summary": "A 1946 Cambridge Moral Sciences Club meeting became famous for conflicting accounts involving a fireplace poker.",
+    "left": {
+      "name": "Ludwig Wittgenstein",
+      "position": "Challenged Popper's account of philosophical problems in the reported encounter."
+    },
+    "right": {
+      "name": "Karl Popper",
+      "position": "Defended the existence of genuine philosophical problems."
+    },
+    "significance": "The episode is itself a dispute about memory and testimony. No transcript settles the famous gesture or its exact sequence.",
+    "slug": "wittgenstein-s-poker",
+    "date": 1946,
+    "era": "broadcast",
+    "sources": [
+      {
+        "label": "Cambridge Moral Sciences Club history + 'Wittgenstein's Poker'",
+        "url": "https://www.phil.cam.ac.uk/"
+      }
+    ],
+    "form": "Public debate",
+    "recordNote": "No complete, reliable verbatim transcript of this encounter survives here. The entry relies on published accounts, recollections or reconstructions; famous lines and gestures should be treated with caution.",
+    "shortTitle": "Wittgenstein's poker"
+  }
+]

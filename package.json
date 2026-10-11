@@ -1,0 +1,1 @@
+{"name":"the-great-debates","version":"1.0.0","private":true,"scripts":{"start":"node server.mjs","build":"node build.mjs","test":"node tests/content.mjs"},"engines":{"node":">=18"}}

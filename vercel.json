@@ -1,0 +1,1 @@
+{"version":2,"buildCommand":"npm run build","outputDirectory":"dist","rewrites":[{"source":"/((?!assets/|styles.css|app.js|debates.json).*)","destination":"/index.html"}]}

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "fonts/Instrument-Serif-italic-400.ttf",
+    "url": "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATiw.ttf",
+    "family": "Instrument Serif",
+    "style": "italic",
+    "weight": "400",
+    "license": "SIL Open Font License 1.1, not PD/CC0"
+  },
+  {
+    "file": "fonts/Instrument-Serif-normal-400.ttf",
+    "url": "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-2zI.ttf",
+    "family": "Instrument Serif",
+    "style": "normal",
+    "weight": "400",
+    "license": "SIL Open Font License 1.1, not PD/CC0"
+  },
+  {
+    "file": "fonts/Inter-Tight-italic-400.ttf",
+    "url": "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5X.ttf",
+    "family": "Inter Tight",
+    "style": "italic",
+    "weight": "400",
+    "license": "SIL Open Font License 1.1, not PD/CC0"
+  },
+  {
+    "file": "fonts/Inter-Tight-normal-400.ttf",
+    "url": "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf",
+    "family": "Inter Tight",
+    "style": "normal",
+    "weight": "400",
+    "license": "SIL Open Font License 1.1, not PD/CC0"
+  },
+  {
+    "file": "fonts/Inter-Tight-normal-500.ttf",
+    "url": "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXA.ttf",
+    "family": "Inter Tight",
+    "style": "normal",
+    "weight": "500",
+    "license": "SIL Open Font License 1.1, not PD/CC0"
+  },
+  {
+    "file": "fonts/Inter-Tight-normal-700.ttf",
+    "url": "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf",
+    "family": "Inter Tight",
+    "style": "normal",
+    "weight": "700",
+    "license": "SIL Open Font License 1.1, not PD/CC0"
+  }
+]
