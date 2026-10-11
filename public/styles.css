@@ -10,12 +10,13 @@ html,body{overflow-x:clip}
 .timeline-full{padding:0 var(--gut) 70px}
 .timeline-full>*{max-width:980px}
 .timeline-group>h2{padding-left:0}
-.method{padding:0 var(--gut) 70px;display:grid;grid-template-columns:minmax(0,260px) minmax(0,660px);column-gap:56px;align-content:start}
-.method h2{grid-column:1;margin:40px 0 0;font-size:34px;line-height:1.1}
-.method p,.method li{grid-column:2;margin:0 0 15px}
-.method h2+p{margin-top:0}
-.method h2{padding-top:2px}
-@media(max-width:900px){.method{grid-template-columns:minmax(0,1fr);column-gap:0}.method h2,.method p,.method li{grid-column:1}.method h2{margin:36px 0 14px}}
+.method{padding:0 var(--gut) 70px}
+.method-row{display:grid;grid-template-columns:minmax(0,260px) minmax(0,660px);column-gap:56px;align-items:start;padding:36px 0;border-top:1px solid var(--line)}
+.method-row:first-child{border-top:0}
+.method h2{margin:0;font-size:34px;line-height:1.1;padding-top:3px}
+.method-body p,.method-body li{grid-column:auto;margin:0 0 15px}
+.method-body>*:last-child{margin-bottom:0}
+@media(max-width:900px){.method-row{grid-template-columns:minmax(0,1fr);row-gap:14px;padding:30px 0}}
 @media(max-width:720px){:root{--gut:25px}.timeline-full,.method{padding-inline:25px}.timeline-entry .year{font-size:27px}}
 @media(max-width:1100px) and (min-width:721px){.timeline-entry{grid-template-columns:170px 1fr 22px}.timeline-entry .year{font-size:28px}}
 
